@@ -414,7 +414,7 @@ html, body {
   display: flex;
   align-items: center;
   gap: 20px;
-  padding: 12px 24px;
+  padding: 12px 56px 12px 24px;
   background: var(--bg-secondary);
   border-bottom: 1px solid var(--border);
   flex-shrink: 0;
