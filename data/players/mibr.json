@@ -1,0 +1,336 @@
+{
+  "teamId": "mibr",
+  "teamName": "MIBR",
+  "players": [
+    {
+      "id": "brnz4n",
+      "nickname": "brnz4n",
+      "fullName": "Breno Unknown",
+      "country": "Brazil",
+      "age": 20,
+      "birthYear": 2006,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.97,
+      "funFact": "MIBR的新生力量，从青训晋升",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MIBR",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MIBR的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MIBR在本次Major种子排名第26",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "2006年出生，今年20岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.97",
+          "difficulty": 3
+        },
+        {
+          "text": "MIBR最年轻选手之一，枪法风格被描述为\"南美版donk\"",
+          "difficulty": 3
+        },
+        {
+          "text": "2024年从青训毕业直接进入主队",
+          "difficulty": 4
+        },
+        {
+          "text": "MIBR是巴西CS历史上最辉煌的战队之一",
+          "difficulty": 3
+        }
+      ],
+      "team": "mibr",
+      "teamName": "MIBR",
+      "teamPlacement": "26th seed"
+    },
+    {
+      "id": "venomzera",
+      "nickname": "venomzera",
+      "fullName": "venomzera Unknown",
+      "country": "Brazil",
+      "age": 24,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.07",
+      "funFact": "venomzera is a player for MIBR",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MIBR",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MIBR的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MIBR在本次Major种子排名第26",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "MIBR正在重建新一代巴西阵容",
+          "difficulty": 3
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mibr",
+      "teamName": "MIBR",
+      "teamPlacement": "26th seed"
+    },
+    {
+      "id": "insani",
+      "nickname": "insani",
+      "fullName": "Felipe Yuji",
+      "country": "Brazil",
+      "age": 21,
+      "birthYear": 2005,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 1.04,
+      "funFact": "MIBR最亮眼的新星，2024-2025年迅速崛起",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MIBR",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MIBR的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MIBR在本次Major种子排名第26",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.04",
+          "difficulty": 3
+        },
+        {
+          "text": "MIBR的前身SK/Luminosity曾统治CSGO",
+          "difficulty": 3
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mibr",
+      "teamName": "MIBR",
+      "teamPlacement": "26th seed"
+    },
+    {
+      "id": "kl1m",
+      "nickname": "kl1m",
+      "fullName": "kl1m Unknown",
+      "country": "Brazil",
+      "age": 21,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.02",
+      "funFact": "kl1m is a player for MIBR",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MIBR",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MIBR的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MIBR在本次Major种子排名第26",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "MIBR正在重建新一代巴西阵容",
+          "difficulty": 3
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mibr",
+      "teamName": "MIBR",
+      "teamPlacement": "26th seed"
+    },
+    {
+      "id": "LNZ",
+      "nickname": "LNZ",
+      "fullName": "Linus Holtäng",
+      "country": "Sweden",
+      "age": 26,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.00",
+      "funFact": "LNZ is a player for MIBR",
+      "hints": [
+        {
+          "text": "来自Sweden",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MIBR",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MIBR的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MIBR在本次Major种子排名第26",
+          "difficulty": 3
+        },
+        {
+          "text": "瑞典是CS历史上最成功的国家之一",
+          "difficulty": 2
+        },
+        {
+          "text": "MIBR是巴西CS历史上最辉煌的战队之一",
+          "difficulty": 3
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MIBR中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mibr",
+      "teamName": "MIBR",
+      "teamPlacement": "26th seed"
+    }
+  ]
+}

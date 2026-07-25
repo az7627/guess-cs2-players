@@ -1,0 +1,340 @@
+{
+  "teamId": "g2",
+  "teamName": "G2 Esports",
+  "players": [
+    {
+      "id": "huNter-",
+      "nickname": "huNter-",
+      "fullName": "Nemanja Kovač",
+      "country": "Bosnia and Herzegovina",
+      "age": 29,
+      "birthYear": 1997,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 7,
+      "hlvtRating": 1.07,
+      "funFact": "波黑CS旗帜，也是NiKo的表哥，G2的长期核心",
+      "hints": [
+        {
+          "text": "来自Bosnia and Herzegovina",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于G2 Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为G2 Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "G2 Esports在本次Major种子排名第10",
+          "difficulty": 3
+        },
+        {
+          "text": "波黑走出了CS史上最强步枪手之一",
+          "difficulty": 3
+        },
+        {
+          "text": "1997年出生，今年29岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了7届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.07",
+          "difficulty": 3
+        },
+        {
+          "text": "Bosnia and Herzegovina人，来自萨拉热窝",
+          "difficulty": 1
+        },
+        {
+          "text": "G2 Esports阵中资历较深的一位",
+          "difficulty": 3
+        },
+        {
+          "text": "NiKo的表兄，CS圈最著名的\"兄弟档\"——两人曾在G2并肩作战",
+          "difficulty": 3
+        },
+        {
+          "text": "G2在多个电竞项目中都有顶级战队",
+          "difficulty": 3
+        }
+      ],
+      "team": "g2",
+      "teamName": "G2 Esports",
+      "teamPlacement": "10th seed"
+    },
+    {
+      "id": "NertZ",
+      "nickname": "NertZ",
+      "fullName": "Guy Iluz",
+      "country": "Israel",
+      "age": 24,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 1.04,
+      "funFact": "以色列步枪手，从Endpoint到HEROIC，表现稳步提升",
+      "hints": [
+        {
+          "text": "来自Israel",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于G2 Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为G2 Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "G2 Esports在本次Major种子排名第10",
+          "difficulty": 3
+        },
+        {
+          "text": "以色列近年向CS输出了大量天才选手",
+          "difficulty": 2
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.04",
+          "difficulty": 3
+        },
+        {
+          "text": "G2在多个电竞项目中都有顶级战队",
+          "difficulty": 3
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "g2",
+      "teamName": "G2 Esports",
+      "teamPlacement": "10th seed"
+    },
+    {
+      "id": "SunPayus",
+      "nickname": "SunPayus",
+      "fullName": "Alvaro Fernandez",
+      "country": "Spain",
+      "age": 25,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.24",
+      "funFact": "SunPayus is a player for G2 Esports",
+      "hints": [
+        {
+          "text": "来自Spain",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于G2 Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为G2 Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "G2 Esports在本次Major种子排名第10",
+          "difficulty": 3
+        },
+        {
+          "text": "西班牙CS正在培养新一代天才",
+          "difficulty": 4
+        },
+        {
+          "text": "G2是欧洲最具人气的战队之一",
+          "difficulty": 3
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "g2",
+      "teamName": "G2 Esports",
+      "teamPlacement": "10th seed"
+    },
+    {
+      "id": "HeavyGod",
+      "nickname": "HeavyGod",
+      "fullName": "Nikita Martynenko",
+      "country": "Israel",
+      "age": 22,
+      "birthYear": 2004,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 1.04,
+      "funFact": "从OG转投G2，迅速成为队伍的多面手",
+      "hints": [
+        {
+          "text": "来自Israel",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于G2 Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为G2 Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "G2 Esports在本次Major种子排名第10",
+          "difficulty": 3
+        },
+        {
+          "text": "以色列近年向CS输出了大量天才选手",
+          "difficulty": 3
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.04",
+          "difficulty": 3
+        },
+        {
+          "text": "G2的粉丝遍布全球社交媒体极为活跃",
+          "difficulty": 3
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "g2",
+      "teamName": "G2 Esports",
+      "teamPlacement": "10th seed"
+    },
+    {
+      "id": "MATYS",
+      "nickname": "MATYS",
+      "fullName": "MATYS Unknown",
+      "country": "Europe",
+      "age": 21,
+      "birthYear": "1998",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.10",
+      "funFact": "MATYS is a player for G2 Esports",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于G2 Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为G2 Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "G2 Esports在本次Major种子排名第10",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 2
+        },
+        {
+          "text": "G2的粉丝遍布全球社交媒体极为活跃",
+          "difficulty": 3
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在G2 Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "g2",
+      "teamName": "G2 Esports",
+      "teamPlacement": "10th seed"
+    }
+  ]
+}

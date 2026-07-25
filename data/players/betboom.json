@@ -1,0 +1,340 @@
+{
+  "teamId": "betboom",
+  "teamName": "BetBoom Team",
+  "players": [
+    {
+      "id": "Boombl4",
+      "nickname": "Boombl4",
+      "fullName": "Kirill Mikhailov",
+      "country": "Russia",
+      "age": 22,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "0.99",
+      "funFact": "Boombl4 is a player for BetBoom Team",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BetBoom Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BetBoom Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BetBoom Team在本次Major种子排名第18",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 4
+        },
+        {
+          "text": "BetBoom是俄罗斯电竞的重要玩家",
+          "difficulty": 3
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "betboom",
+      "teamName": "BetBoom Team",
+      "teamPlacement": "18th seed"
+    },
+    {
+      "id": "zorte",
+      "nickname": "zorte",
+      "fullName": "Alexandr Zagodyrenko",
+      "country": "Russia",
+      "age": 24,
+      "birthYear": "2002",
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 1.04,
+      "funFact": "俄罗斯优秀狙击手，从FORZE转会至BetBoom",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BetBoom Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BetBoom Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BetBoom Team在本次Major种子排名第18",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.04",
+          "difficulty": 3
+        },
+        {
+          "text": "用一把AWP在比赛中屡建奇功的狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "BetBoom Team阵中资历较深的一位",
+          "difficulty": 3
+        },
+        {
+          "text": "耳机音量开得大，能清晰听到细微脚步",
+          "difficulty": 4
+        },
+        {
+          "text": "BetBoom是俄罗斯电竞的重要玩家",
+          "difficulty": 3
+        }
+      ],
+      "team": "betboom",
+      "teamName": "BetBoom Team",
+      "teamPlacement": "18th seed"
+    },
+    {
+      "id": "S1ren",
+      "nickname": "S1ren",
+      "fullName": "Pavel Ogloblin",
+      "country": "Russia",
+      "age": 25,
+      "birthYear": "1998",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "0.86",
+      "funFact": "S1ren is a player for BetBoom Team",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BetBoom Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BetBoom Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BetBoom Team在本次Major种子排名第18",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "BetBoom阵容中有多位经验丰富的选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "betboom",
+      "teamName": "BetBoom Team",
+      "teamPlacement": "18th seed"
+    },
+    {
+      "id": "FL4MUS",
+      "nickname": "FL4MUS",
+      "fullName": "Timur Marev",
+      "country": "Russia",
+      "age": 22,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.00",
+      "funFact": "FL4MUS is a player for BetBoom Team",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BetBoom Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BetBoom Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BetBoom Team在本次Major种子排名第18",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "BetBoom阵容中有多位经验丰富的选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "betboom",
+      "teamName": "BetBoom Team",
+      "teamPlacement": "18th seed"
+    },
+    {
+      "id": "Magnojez",
+      "nickname": "Magnojez",
+      "fullName": "Kirill Rodnov",
+      "country": "Russia",
+      "age": 21,
+      "birthYear": "2005",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.98,
+      "funFact": "BetBoom的新锐步枪手",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BetBoom Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BetBoom Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BetBoom Team在本次Major种子排名第18",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 4
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.98",
+          "difficulty": 3
+        },
+        {
+          "text": "BetBoom在独联体地区粉丝众多",
+          "difficulty": 3
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BetBoom Team中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "betboom",
+      "teamName": "BetBoom Team",
+      "teamPlacement": "18th seed"
+    }
+  ]
+}

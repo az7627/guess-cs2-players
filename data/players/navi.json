@@ -1,0 +1,356 @@
+{
+  "teamId": "navi",
+  "teamName": "Natus Vincere",
+  "players": [
+    {
+      "id": "Aleksib",
+      "nickname": "Aleksib",
+      "fullName": "Aleksi Virolainen",
+      "country": "Finland",
+      "age": 29,
+      "birthYear": 1997,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 8,
+      "hlvtRating": 0.93,
+      "funFact": "芬兰最好的CS指挥，先后执掌ENCE、OG、G2和NAVI",
+      "hints": [
+        {
+          "text": "来自Finland",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Natus Vincere",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Natus Vincere的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Natus Vincere在本次Major种子排名第2",
+          "difficulty": 3
+        },
+        {
+          "text": "芬兰CS有着坚韧不拔的传统",
+          "difficulty": 2
+        },
+        {
+          "text": "1997年出生，今年29岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了8届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.93",
+          "difficulty": 3
+        },
+        {
+          "text": "作为IGL需要兼顾个人发挥和团队指挥",
+          "difficulty": 1
+        },
+        {
+          "text": "对CS2新版本sub-tick机制理解很深",
+          "difficulty": 4
+        },
+        {
+          "text": "2019年被ENCE踢出门——催生\"Aleksib era\"网络热梗",
+          "difficulty": 3
+        },
+        {
+          "text": "2024带队在哥本哈根夺冠，向所有抛弃他的队伍完成了复仇",
+          "difficulty": 4
+        },
+        {
+          "text": "NAVI培养出了s1mple这位史上最伟大的CS选手",
+          "difficulty": 3
+        }
+      ],
+      "team": "navi",
+      "teamName": "Natus Vincere",
+      "teamPlacement": "2nd seed"
+    },
+    {
+      "id": "b1t",
+      "nickname": "b1t",
+      "fullName": "Valerij Vakhovskyj",
+      "country": "Ukraine",
+      "age": 23,
+      "birthYear": 2003,
+      "role": "Rifler",
+      "majorTitles": 1,
+      "majorAppearances": 5,
+      "hlvtRating": 1.08,
+      "funFact": "从NAVI青训直接晋升主队，以惊人的爆头率闻名（曾被叫做'b1t machine'）",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Natus Vincere",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Natus Vincere的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Natus Vincere在本次Major种子排名第2",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 2
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.08",
+          "difficulty": 3
+        },
+        {
+          "text": "在Ancient B点防守滴水不漏",
+          "difficulty": 3
+        },
+        {
+          "text": "随Natus Vincere参加过多次国际赛事",
+          "difficulty": 3
+        },
+        {
+          "text": "以历史级爆头率闻名，长期位列职业选手头部命中率第一名",
+          "difficulty": 3
+        },
+        {
+          "text": "NAVI曾创造全年不败的传奇纪录",
+          "difficulty": 3
+        }
+      ],
+      "team": "navi",
+      "teamName": "Natus Vincere",
+      "teamPlacement": "2nd seed"
+    },
+    {
+      "id": "iM",
+      "nickname": "iM",
+      "fullName": "Ivan Mihai",
+      "country": "Romania",
+      "age": 26,
+      "birthYear": 2000,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 1.05,
+      "funFact": "在2023巴黎Major上以GamerLegion身份一鸣惊人，随后被NAVI签下",
+      "hints": [
+        {
+          "text": "来自Romania",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Natus Vincere",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Natus Vincere的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Natus Vincere在本次Major种子排名第2",
+          "difficulty": 3
+        },
+        {
+          "text": "罗马尼亚CS选手风格独特",
+          "difficulty": 3
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.05",
+          "difficulty": 3
+        },
+        {
+          "text": "Romania人，来自布加勒斯特",
+          "difficulty": 1
+        },
+        {
+          "text": "Natus Vincere阵中资历较深的一位",
+          "difficulty": 3
+        },
+        {
+          "text": "NAVI曾创造全年不败的传奇纪录",
+          "difficulty": 3
+        }
+      ],
+      "team": "navi",
+      "teamName": "Natus Vincere",
+      "teamPlacement": "2nd seed"
+    },
+    {
+      "id": "w0nderful",
+      "nickname": "w0nderful",
+      "fullName": "Ihor Zhdanov",
+      "country": "Ukraine",
+      "age": 21,
+      "birthYear": 2005,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 1.13,
+      "funFact": "接替s1mple成为NAVI主狙击手，在Spirit效力后加入NAVI",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Natus Vincere",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Natus Vincere的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Natus Vincere在本次Major种子排名第2",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 4
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.13",
+          "difficulty": 3
+        },
+        {
+          "text": "专职狙击手，善于用AWP为队伍打开突破口",
+          "difficulty": 1
+        },
+        {
+          "text": "在Vertigo A坡防守是强项",
+          "difficulty": 3
+        },
+        {
+          "text": "耳机音量开得大，能清晰听到细微脚步",
+          "difficulty": 4
+        },
+        {
+          "text": "NAVI是独联体地区历史最悠久的CS战队之一",
+          "difficulty": 3
+        }
+      ],
+      "team": "navi",
+      "teamName": "Natus Vincere",
+      "teamPlacement": "2nd seed"
+    },
+    {
+      "id": "makazze",
+      "nickname": "makazze",
+      "fullName": "Maksym Yablonskyi",
+      "country": "Ukraine",
+      "age": 28,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "0.97",
+      "funFact": "makazze is a player for Natus Vincere",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Natus Vincere",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Natus Vincere的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Natus Vincere在本次Major种子排名第2",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 3
+        },
+        {
+          "text": "NAVI是独联体地区历史最悠久的CS战队之一",
+          "difficulty": 3
+        },
+        {
+          "text": "在Natus Vincere中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Natus Vincere中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Natus Vincere中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Natus Vincere中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Natus Vincere中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Natus Vincere中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "navi",
+      "teamName": "Natus Vincere",
+      "teamPlacement": "2nd seed"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "teamId": "fut",
+  "teamName": "FUT Esports",
+  "players": [
+    {
+      "id": "dem0n",
+      "nickname": "dem0n",
+      "fullName": "dem0n Unknown",
+      "country": "Turkey",
+      "age": 20,
+      "birthYear": "1999",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "1.09",
+      "funFact": "dem0n is a player for FUT Esports",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FUT Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FUT Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FUT Esports在本次Major种子排名第12",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 2
+        },
+        {
+          "text": "FUT在欧洲二线赛场展现出了竞争力",
+          "difficulty": 3
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "fut",
+      "teamName": "FUT Esports",
+      "teamPlacement": "12th seed"
+    },
+    {
+      "id": "lauNX",
+      "nickname": "lauNX",
+      "fullName": "Laurynas Bielinis",
+      "country": "Lithuania",
+      "age": 25,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "1.05",
+      "funFact": "lauNX is a player for FUT Esports",
+      "hints": [
+        {
+          "text": "来自Lithuania",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FUT Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FUT Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FUT Esports在本次Major种子排名第12",
+          "difficulty": 3
+        },
+        {
+          "text": "立陶宛选手在CS圈以强悍的瞄准著称",
+          "difficulty": 4
+        },
+        {
+          "text": "FUT是土耳其CS的新兴代表",
+          "difficulty": 3
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "fut",
+      "teamName": "FUT Esports",
+      "teamPlacement": "12th seed"
+    },
+    {
+      "id": "Krabeni",
+      "nickname": "Krabeni",
+      "fullName": "Krabeni Unknown",
+      "country": "Turkey",
+      "age": 25,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "0.94",
+      "funFact": "Krabeni is a player for FUT Esports",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FUT Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FUT Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FUT Esports在本次Major种子排名第12",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 3
+        },
+        {
+          "text": "FUT在欧洲二线赛场展现出了竞争力",
+          "difficulty": 3
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "fut",
+      "teamName": "FUT Esports",
+      "teamPlacement": "12th seed"
+    },
+    {
+      "id": "cmtry",
+      "nickname": "cmtry",
+      "fullName": "cmtry Unknown",
+      "country": "Turkey",
+      "age": 20,
+      "birthYear": "1999",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "0.89",
+      "funFact": "cmtry is a player for FUT Esports",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FUT Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FUT Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FUT Esports在本次Major种子排名第12",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 4
+        },
+        {
+          "text": "FUT的选手大多来自土耳其本土",
+          "difficulty": 3
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "fut",
+      "teamName": "FUT Esports",
+      "teamPlacement": "12th seed"
+    },
+    {
+      "id": "dziugss",
+      "nickname": "dziugss",
+      "fullName": "dziugss Unknown",
+      "country": "Turkey",
+      "age": 26,
+      "birthYear": "1999",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.13",
+      "funFact": "dziugss is a player for FUT Esports",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FUT Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FUT Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FUT Esports在本次Major种子排名第12",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 4
+        },
+        {
+          "text": "FUT的选手大多来自土耳其本土",
+          "difficulty": 3
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FUT Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "fut",
+      "teamName": "FUT Esports",
+      "teamPlacement": "12th seed"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "teamId": "sharks",
+  "teamName": "Sharks Esports",
+  "players": [
+    {
+      "id": "gafolo",
+      "nickname": "gafolo",
+      "fullName": "gafolo Unknown",
+      "country": "Brazil",
+      "age": 22,
+      "birthYear": "2004",
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.92,
+      "funFact": "Sharks的狙击手",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Sharks Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Sharks Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Sharks Esports在本次Major种子排名第27",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 3
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.92",
+          "difficulty": 3
+        },
+        {
+          "text": "用一把AWP在比赛中屡建奇功的狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "耳机音量开得大，能清晰听到细微脚步",
+          "difficulty": 4
+        },
+        {
+          "text": "Sharks在南美赛区竞争力日益增强",
+          "difficulty": 3
+        }
+      ],
+      "team": "sharks",
+      "teamName": "Sharks Esports",
+      "teamPlacement": "27th seed"
+    },
+    {
+      "id": "rdnzao",
+      "nickname": "rdnzao",
+      "fullName": "rdnzao Unknown",
+      "country": "Brazil",
+      "age": 23,
+      "birthYear": "2003",
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.9,
+      "funFact": "Sharks的指挥，巴西年轻IGL",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Sharks Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Sharks Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Sharks Esports在本次Major种子排名第27",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.9",
+          "difficulty": 3
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "经常研究对手的DEMO做针对性准备",
+          "difficulty": 4
+        },
+        {
+          "text": "Sharks是巴西CS的新锐之师",
+          "difficulty": 3
+        }
+      ],
+      "team": "sharks",
+      "teamName": "Sharks Esports",
+      "teamPlacement": "27th seed"
+    },
+    {
+      "id": "doc",
+      "nickname": "doc",
+      "fullName": "doc Unknown",
+      "country": "Brazil",
+      "age": 24,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.89,
+      "funFact": "Sharks的步枪手",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Sharks Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Sharks Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Sharks Esports在本次Major种子排名第27",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.89",
+          "difficulty": 3
+        },
+        {
+          "text": "Sharks是巴西CS的新锐之师",
+          "difficulty": 3
+        },
+        {
+          "text": "在Sharks Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Sharks Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "sharks",
+      "teamName": "Sharks Esports",
+      "teamPlacement": "27th seed"
+    },
+    {
+      "id": "koala",
+      "nickname": "koala",
+      "fullName": "koala Unknown",
+      "country": "Brazil",
+      "age": 22,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": 0.86,
+      "funFact": "Sharks的新成员",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Sharks Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Sharks Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Sharks Esports在本次Major种子排名第27",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "HLTV Rating约为0.86",
+          "difficulty": 3
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "在ESL和BLAST等大赛中积攒了不少经验",
+          "difficulty": 3
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "Sharks是巴西CS的新锐之师",
+          "difficulty": 3
+        }
+      ],
+      "team": "sharks",
+      "teamName": "Sharks Esports",
+      "teamPlacement": "27th seed"
+    },
+    {
+      "id": "maxxkor",
+      "nickname": "maxxkor",
+      "fullName": "maxxkor Unknown",
+      "country": "Brazil",
+      "age": 21,
+      "birthYear": "1999",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "0.93",
+      "funFact": "maxxkor is a player for Sharks Esports",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Sharks Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Sharks Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Sharks Esports在本次Major种子排名第27",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "Sharks在南美赛区竞争力日益增强",
+          "difficulty": 3
+        },
+        {
+          "text": "在Sharks Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Sharks Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Sharks Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Sharks Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Sharks Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Sharks Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "sharks",
+      "teamName": "Sharks Esports",
+      "teamPlacement": "27th seed"
+    }
+  ]
+}

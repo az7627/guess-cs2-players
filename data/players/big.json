@@ -1,0 +1,336 @@
+{
+  "teamId": "big",
+  "teamName": "BIG",
+  "players": [
+    {
+      "id": "tabseN",
+      "nickname": "tabseN",
+      "fullName": "Johannes Wodarz",
+      "country": "Germany",
+      "age": 31,
+      "birthYear": "1995",
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 10,
+      "hlvtRating": 1.02,
+      "funFact": "德国CS的旗帜人物，BIG建队核心，是极少数同时担任IGL和顶级步枪手的选手",
+      "hints": [
+        {
+          "text": "来自Germany",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BIG",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BIG的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BIG在本次Major种子排名第21",
+          "difficulty": 3
+        },
+        {
+          "text": "德国CS以严谨的战术体系著称",
+          "difficulty": 3
+        },
+        {
+          "text": "1995年出生，今年31岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了10届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.02",
+          "difficulty": 3
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "BIG在德国本土拥有大量忠实粉丝",
+          "difficulty": 3
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "big",
+      "teamName": "BIG",
+      "teamPlacement": "21th seed"
+    },
+    {
+      "id": "blameF",
+      "nickname": "blameF",
+      "fullName": "Benjamin Bremer",
+      "country": "Denmark",
+      "age": 26,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.03",
+      "funFact": "blameF is a player for BIG",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BIG",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BIG的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BIG在本次Major种子排名第21",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 4
+        },
+        {
+          "text": "BIG的选手以严谨的战术纪律著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "big",
+      "teamName": "BIG",
+      "teamPlacement": "21th seed"
+    },
+    {
+      "id": "JDC",
+      "nickname": "JDC",
+      "fullName": "Jon de Castro",
+      "country": "Germany",
+      "age": 22,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.14",
+      "funFact": "JDC is a player for BIG",
+      "hints": [
+        {
+          "text": "来自Germany",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BIG",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BIG的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BIG在本次Major种子排名第21",
+          "difficulty": 3
+        },
+        {
+          "text": "德国CS以严谨的战术体系著称",
+          "difficulty": 2
+        },
+        {
+          "text": "BIG的选手以严谨的战术纪律著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "big",
+      "teamName": "BIG",
+      "teamPlacement": "21th seed"
+    },
+    {
+      "id": "gr1ks",
+      "nickname": "gr1ks",
+      "fullName": "Grigoriy Unknown",
+      "country": "Russia",
+      "age": 24,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "1.13",
+      "funFact": "gr1ks is a player for BIG",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BIG",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BIG的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BIG在本次Major种子排名第21",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "BIG是德国CS的旗帜",
+          "difficulty": 3
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "big",
+      "teamName": "BIG",
+      "teamPlacement": "21th seed"
+    },
+    {
+      "id": "faveN",
+      "nickname": "faveN",
+      "fullName": "Josef Baumann",
+      "country": "Germany",
+      "age": 26,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "1.24",
+      "funFact": "faveN is a player for BIG",
+      "hints": [
+        {
+          "text": "来自Germany",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于BIG",
+          "difficulty": 1
+        },
+        {
+          "text": "作为BIG的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "BIG在本次Major种子排名第21",
+          "difficulty": 3
+        },
+        {
+          "text": "德国CS以严谨的战术体系著称",
+          "difficulty": 2
+        },
+        {
+          "text": "BIG的选手以严谨的战术纪律著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在BIG中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "big",
+      "teamName": "BIG",
+      "teamPlacement": "21th seed"
+    }
+  ]
+}

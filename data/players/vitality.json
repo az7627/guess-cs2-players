@@ -1,0 +1,368 @@
+{
+  "teamId": "vitality",
+  "teamName": "Team Vitality",
+  "players": [
+    {
+      "id": "apEX",
+      "nickname": "apEX",
+      "fullName": "Dan Madesclaire",
+      "country": "France",
+      "age": 32,
+      "birthYear": 1994,
+      "role": "IGL",
+      "majorTitles": 2,
+      "majorAppearances": 14,
+      "hlvtRating": 1,
+      "funFact": "法国CS最后一位现役传奇，从选手转型IGL带领Vitality走向辉煌",
+      "hints": [
+        {
+          "text": "来自France",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Vitality",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Vitality的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Vitality在本次Major种子排名第1",
+          "difficulty": 3
+        },
+        {
+          "text": "法国CS的传奇选手层出不穷，从kennyS到ZywOo",
+          "difficulty": 2
+        },
+        {
+          "text": "1994年出生，今年32岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得2座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了14届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1",
+          "difficulty": 3
+        },
+        {
+          "text": "耳机音量开得大，能清晰听到细微脚步",
+          "difficulty": 4
+        },
+        {
+          "text": "CS圈最情绪化的选手——赢比赛会跳上桌子大喊",
+          "difficulty": 4
+        },
+        {
+          "text": "Vitality是法国最有影响力的电竞俱乐部之一",
+          "difficulty": 3
+        }
+      ],
+      "team": "vitality",
+      "teamName": "Team Vitality",
+      "teamPlacement": "1st seed"
+    },
+    {
+      "id": "ZywOo",
+      "nickname": "ZywOo",
+      "fullName": "Mathieu Herbaut",
+      "country": "France",
+      "age": 25,
+      "birthYear": 2001,
+      "role": "AWPer",
+      "majorTitles": 2,
+      "majorAppearances": 9,
+      "hlvtRating": 1.32,
+      "funFact": "3次HLTV年度TOP 1（2019,2020,2024），被广泛认为是CS史上最伟大的选手之一",
+      "hints": [
+        {
+          "text": "来自France",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Vitality",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Vitality的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Vitality在本次Major种子排名第1",
+          "difficulty": 3
+        },
+        {
+          "text": "法国CS的传奇选手层出不穷，从kennyS到ZywOo",
+          "difficulty": 3
+        },
+        {
+          "text": "2001年出生，今年25岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得2座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了9届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.32",
+          "difficulty": 3
+        },
+        {
+          "text": "队内主狙击手，负责用AWP控制关键位置",
+          "difficulty": 1
+        },
+        {
+          "text": "随Team Vitality参加过多次国际赛事",
+          "difficulty": 3
+        },
+        {
+          "text": "3次HLTV年度TOP1，和s1mple统治了CS:GO末期",
+          "difficulty": 3
+        },
+        {
+          "text": "Vitality是法国最有影响力的电竞俱乐部之一",
+          "difficulty": 3
+        }
+      ],
+      "team": "vitality",
+      "teamName": "Team Vitality",
+      "teamPlacement": "1st seed"
+    },
+    {
+      "id": "flameZ",
+      "nickname": "flameZ",
+      "fullName": "Shahar Shushan",
+      "country": "Israel",
+      "age": 23,
+      "birthYear": 2003,
+      "role": "Rifler",
+      "majorTitles": 1,
+      "majorAppearances": 6,
+      "hlvtRating": 1.14,
+      "funFact": "以色列最好的CS选手之一，以其疯狂的扫射转移能力著称",
+      "hints": [
+        {
+          "text": "来自Israel",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Vitality",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Vitality的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Vitality在本次Major种子排名第1",
+          "difficulty": 3
+        },
+        {
+          "text": "以色列近年向CS输出了大量天才选手",
+          "difficulty": 2
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了6届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.14",
+          "difficulty": 3
+        },
+        {
+          "text": "Vitality的CS分部曾多次夺得Major冠军",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Vitality中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "vitality",
+      "teamName": "Team Vitality",
+      "teamPlacement": "1st seed"
+    },
+    {
+      "id": "mezii",
+      "nickname": "mezii",
+      "fullName": "William Merriman",
+      "country": "United Kingdom",
+      "age": 26,
+      "birthYear": 2000,
+      "role": "Rifler",
+      "majorTitles": 1,
+      "majorAppearances": 5,
+      "hlvtRating": 1.05,
+      "funFact": "英国目前最成功的CS选手，曾在fnatic担任指挥",
+      "hints": [
+        {
+          "text": "来自United Kingdom",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Vitality",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Vitality的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Vitality在本次Major种子排名第1",
+          "difficulty": 3
+        },
+        {
+          "text": "英国CS在近年逐渐找回存在感",
+          "difficulty": 4
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.05",
+          "difficulty": 3
+        },
+        {
+          "text": "United Kingdom人，来自United Kingdom",
+          "difficulty": 1
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "在Dust2 A大混战总能活到最后",
+          "difficulty": 3
+        },
+        {
+          "text": "法国本土Major上Vitality的夺冠是整个法国的荣耀",
+          "difficulty": 3
+        }
+      ],
+      "team": "vitality",
+      "teamName": "Team Vitality",
+      "teamPlacement": "1st seed"
+    },
+    {
+      "id": "ropz",
+      "nickname": "ropz",
+      "fullName": "Robin Kool",
+      "country": "Estonia",
+      "age": 26,
+      "birthYear": 2000,
+      "role": "Rifler",
+      "majorTitles": 1,
+      "majorAppearances": 8,
+      "hlvtRating": 1.15,
+      "funFact": "爱沙尼亚CS旗帜人物，从FaZe转会至Vitality后延续了顶尖表现",
+      "hints": [
+        {
+          "text": "来自Estonia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Vitality",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Vitality的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Vitality在本次Major种子排名第1",
+          "difficulty": 3
+        },
+        {
+          "text": "爱沙尼亚虽小却出了世界冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了8届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.15",
+          "difficulty": 3
+        },
+        {
+          "text": "在Vertigo A坡防守是强项",
+          "difficulty": 3
+        },
+        {
+          "text": "Team Vitality阵中资历较深的一位",
+          "difficulty": 3
+        },
+        {
+          "text": "爱沙尼亚小村子里走出来的世界冠军——励志故事",
+          "difficulty": 3
+        },
+        {
+          "text": "智商型选手代表，对地图理解被认为是最顶级的",
+          "difficulty": 5
+        },
+        {
+          "text": "Vitality是法国最有影响力的电竞俱乐部之一",
+          "difficulty": 3
+        }
+      ],
+      "team": "vitality",
+      "teamName": "Team Vitality",
+      "teamPlacement": "1st seed"
+    }
+  ]
+}

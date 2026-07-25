@@ -1,0 +1,344 @@
+{
+  "teamId": "furia",
+  "teamName": "FURIA",
+  "players": [
+    {
+      "id": "FalleN",
+      "nickname": "FalleN",
+      "fullName": "Gabriel Toledo",
+      "country": "Brazil",
+      "age": 35,
+      "birthYear": 1991,
+      "role": "AWPer/IGL",
+      "majorTitles": 2,
+      "majorAppearances": 16,
+      "hlvtRating": 1.02,
+      "funFact": "巴西CS教父，曾带领SK/Luminosity夺得2次Major冠军（2016）",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FURIA",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FURIA的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FURIA在本次Major种子排名第7",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 3
+        },
+        {
+          "text": "1991年出生，今年35岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内同时担任狙击手和指挥",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得2座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了16届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.02",
+          "difficulty": 3
+        },
+        {
+          "text": "同时扛起狙击枪和指挥重任的双料核心",
+          "difficulty": 1
+        },
+        {
+          "text": "被称为巴西CS教父兼\"教授\"(The Professor)",
+          "difficulty": 3
+        },
+        {
+          "text": "FURIA是巴西CS最激进的代表",
+          "difficulty": 3
+        }
+      ],
+      "team": "furia",
+      "teamName": "FURIA",
+      "teamPlacement": "7th seed"
+    },
+    {
+      "id": "molodoy",
+      "nickname": "molodoy",
+      "fullName": "Molodoy Unknown",
+      "country": "Brazil",
+      "age": 26,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "0.94",
+      "funFact": "molodoy is a player for FURIA",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FURIA",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FURIA的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FURIA在本次Major种子排名第7",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 3
+        },
+        {
+          "text": "FURIA的打法以狂野著称令对手防不胜防",
+          "difficulty": 3
+        },
+        {
+          "text": "在FURIA中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FURIA中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FURIA中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FURIA中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FURIA中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FURIA中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "furia",
+      "teamName": "FURIA",
+      "teamPlacement": "7th seed"
+    },
+    {
+      "id": "yuurih",
+      "nickname": "yuurih",
+      "fullName": "Yuri Santos",
+      "country": "Brazil",
+      "age": 25,
+      "birthYear": 2001,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 8,
+      "hlvtRating": 1.07,
+      "funFact": "与KSCERATO组成了Furia长期的双子星组合",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FURIA",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FURIA的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FURIA在本次Major种子排名第7",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "2001年出生，今年25岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了8届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.07",
+          "difficulty": 3
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "FURIA创始成员，2017年建队就在阵中",
+          "difficulty": 3
+        },
+        {
+          "text": "和KSCERATO搭档超8年，CS最长寿步枪双人组之一",
+          "difficulty": 4
+        },
+        {
+          "text": "FURIA的打法以狂野著称令对手防不胜防",
+          "difficulty": 3
+        }
+      ],
+      "team": "furia",
+      "teamName": "FURIA",
+      "teamPlacement": "7th seed"
+    },
+    {
+      "id": "KSCERATO",
+      "nickname": "KSCERATO",
+      "fullName": "Kaike Cerato",
+      "country": "Brazil",
+      "age": 25,
+      "birthYear": 2001,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 8,
+      "hlvtRating": 1.14,
+      "funFact": "被认为是巴西CS史上最有天赋的选手之一，多次入选HLTV TOP20",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FURIA",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FURIA的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FURIA在本次Major种子排名第7",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "2001年出生，今年25岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了8届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.14",
+          "difficulty": 3
+        },
+        {
+          "text": "五次HLTV年度Top20，巴西步枪手的历史纪录",
+          "difficulty": 4
+        },
+        {
+          "text": "FURIA的选手几乎都是巴西本土培养的",
+          "difficulty": 3
+        },
+        {
+          "text": "在FURIA中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "furia",
+      "teamName": "FURIA",
+      "teamPlacement": "7th seed"
+    },
+    {
+      "id": "YEKINDAR",
+      "nickname": "YEKINDAR",
+      "fullName": "Mareks Gaļinskis",
+      "country": "Latvia",
+      "age": 26,
+      "birthYear": 2000,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 6,
+      "hlvtRating": 0.96,
+      "funFact": "拉脱维亚CS代表人物，从VP转会至Liquid后转型为IGL",
+      "hints": [
+        {
+          "text": "来自Latvia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FURIA",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FURIA的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FURIA在本次Major种子排名第7",
+          "difficulty": 3
+        },
+        {
+          "text": "拉脱维亚的CS选手常常是单枪匹马闯世界",
+          "difficulty": 4
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了6届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.96",
+          "difficulty": 3
+        },
+        {
+          "text": "队伍的场上指挥，每一回合的战术都由他策动",
+          "difficulty": 1
+        },
+        {
+          "text": "Team Liquid阵容中的重要一员",
+          "difficulty": 3
+        },
+        {
+          "text": "FURIA是巴西CS最激进的代表",
+          "difficulty": 3
+        }
+      ],
+      "team": "furia",
+      "teamName": "FURIA",
+      "teamPlacement": "7th seed"
+    }
+  ]
+}

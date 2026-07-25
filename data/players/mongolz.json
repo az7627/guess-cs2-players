@@ -1,0 +1,344 @@
+{
+  "teamId": "mongolz",
+  "teamName": "The MongolZ",
+  "players": [
+    {
+      "id": "bLitz",
+      "nickname": "bLitz",
+      "fullName": "Garidmagnai Byambasuren",
+      "country": "Mongolia",
+      "age": 24,
+      "birthYear": 2002,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 1.02,
+      "funFact": "蒙古CS的旗帜人物，带领The MongolZ成为亚洲最强战队",
+      "hints": [
+        {
+          "text": "来自Mongolia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于The MongolZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为The MongolZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "The MongolZ在本次Major种子排名第8",
+          "difficulty": 3
+        },
+        {
+          "text": "蒙古CS近两年的崛起震惊了全世界",
+          "difficulty": 4
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.02",
+          "difficulty": 3
+        },
+        {
+          "text": "Mongolia人，来自乌兰巴托",
+          "difficulty": 1
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "随The MongolZ参加过多次国际赛事",
+          "difficulty": 3
+        },
+        {
+          "text": "蒙古CS崛起的绝对核心——队魂级人物",
+          "difficulty": 4
+        },
+        {
+          "text": "MongolZ的阵容长期保持稳定这在CS圈极为罕见",
+          "difficulty": 3
+        }
+      ],
+      "team": "mongolz",
+      "teamName": "The MongolZ",
+      "teamPlacement": "8th seed"
+    },
+    {
+      "id": "Techno",
+      "nickname": "Techno",
+      "fullName": "Sodbayar Munkhbold",
+      "country": "Mongolia",
+      "age": 23,
+      "birthYear": "1998",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.05",
+      "funFact": "Techno is a player for The MongolZ",
+      "hints": [
+        {
+          "text": "来自Mongolia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于The MongolZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为The MongolZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "The MongolZ在本次Major种子排名第8",
+          "difficulty": 3
+        },
+        {
+          "text": "蒙古CS近两年的崛起震惊了全世界",
+          "difficulty": 3
+        },
+        {
+          "text": "MongolZ创造了亚洲战队在Major上的最佳战绩",
+          "difficulty": 3
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mongolz",
+      "teamName": "The MongolZ",
+      "teamPlacement": "8th seed"
+    },
+    {
+      "id": "mzinho",
+      "nickname": "mzinho",
+      "fullName": "Ayush Batbold",
+      "country": "Mongolia",
+      "age": 21,
+      "birthYear": 2005,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 1.01,
+      "funFact": "MongolZ最年轻的选手，代表了蒙古CS的新生代",
+      "hints": [
+        {
+          "text": "来自Mongolia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于The MongolZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为The MongolZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "The MongolZ在本次Major种子排名第8",
+          "difficulty": 3
+        },
+        {
+          "text": "蒙古CS近两年的崛起震惊了全世界",
+          "difficulty": 4
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.01",
+          "difficulty": 3
+        },
+        {
+          "text": "Mongolia人，来自乌兰巴托",
+          "difficulty": 1
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "MongolZ的阵容长期保持稳定这在CS圈极为罕见",
+          "difficulty": 3
+        }
+      ],
+      "team": "mongolz",
+      "teamName": "The MongolZ",
+      "teamPlacement": "8th seed"
+    },
+    {
+      "id": "910",
+      "nickname": "910",
+      "fullName": "Usukhbayar Banzragch",
+      "country": "Mongolia",
+      "age": 24,
+      "birthYear": 2002,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 1.04,
+      "funFact": "蒙古最强的狙击手，以稳定的发挥著称",
+      "hints": [
+        {
+          "text": "来自Mongolia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于The MongolZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为The MongolZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "The MongolZ在本次Major种子排名第8",
+          "difficulty": 3
+        },
+        {
+          "text": "蒙古CS近两年的崛起震惊了全世界",
+          "difficulty": 4
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.04",
+          "difficulty": 3
+        },
+        {
+          "text": "Mongolia人，来自乌兰巴托",
+          "difficulty": 1
+        },
+        {
+          "text": "以精准AWP闻名，是队伍远程火力的保障",
+          "difficulty": 1
+        },
+        {
+          "text": "MongolZ创造了亚洲战队在Major上的最佳战绩",
+          "difficulty": 3
+        }
+      ],
+      "team": "mongolz",
+      "teamName": "The MongolZ",
+      "teamPlacement": "8th seed"
+    },
+    {
+      "id": "cobrazera",
+      "nickname": "cobrazera",
+      "fullName": "Cobrazera Unknown",
+      "country": "Mongolia",
+      "age": 24,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "1.20",
+      "funFact": "cobrazera is a player for The MongolZ",
+      "hints": [
+        {
+          "text": "来自Mongolia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于The MongolZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为The MongolZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "The MongolZ在本次Major种子排名第8",
+          "difficulty": 3
+        },
+        {
+          "text": "蒙古CS近两年的崛起震惊了全世界",
+          "difficulty": 3
+        },
+        {
+          "text": "MongolZ创造了亚洲战队在Major上的最佳战绩",
+          "difficulty": 3
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在The MongolZ中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mongolz",
+      "teamName": "The MongolZ",
+      "teamPlacement": "8th seed"
+    }
+  ]
+}

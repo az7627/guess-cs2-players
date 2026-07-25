@@ -1,0 +1,336 @@
+{
+  "teamId": "monte",
+  "teamName": "Monte",
+  "players": [
+    {
+      "id": "Gizmy",
+      "nickname": "Gizmy",
+      "fullName": "Gizmy Unknown",
+      "country": "Europe",
+      "age": 22,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "0.86",
+      "funFact": "Gizmy is a player for Monte",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Monte",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Monte的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Monte在本次Major种子排名第13",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 4
+        },
+        {
+          "text": "Monte参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "monte",
+      "teamName": "Monte",
+      "teamPlacement": "13th seed"
+    },
+    {
+      "id": "afro",
+      "nickname": "afro",
+      "fullName": "Aurelien Drapier",
+      "country": "France",
+      "age": 21,
+      "birthYear": "2006",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.25",
+      "funFact": "afro is a player for Monte",
+      "hints": [
+        {
+          "text": "来自France",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Monte",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Monte的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Monte在本次Major种子排名第13",
+          "difficulty": 3
+        },
+        {
+          "text": "法国CS的传奇选手层出不穷，从kennyS到ZywOo",
+          "difficulty": 4
+        },
+        {
+          "text": "Monte参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "monte",
+      "teamName": "Monte",
+      "teamPlacement": "13th seed"
+    },
+    {
+      "id": "AZUWU",
+      "nickname": "AZUWU",
+      "fullName": "AZUWU Unknown",
+      "country": "Europe",
+      "age": 29,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.02",
+      "funFact": "AZUWU is a player for Monte",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Monte",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Monte的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Monte在本次Major种子排名第13",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 2
+        },
+        {
+          "text": "Monte参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "monte",
+      "teamName": "Monte",
+      "teamPlacement": "13th seed"
+    },
+    {
+      "id": "Bymas",
+      "nickname": "Bymas",
+      "fullName": "Aurimas Pipiras",
+      "country": "Lithuania",
+      "age": 22,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "1.04",
+      "funFact": "Bymas is a player for Monte",
+      "hints": [
+        {
+          "text": "来自Lithuania",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Monte",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Monte的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Monte在本次Major种子排名第13",
+          "difficulty": 3
+        },
+        {
+          "text": "立陶宛选手在CS圈以强悍的瞄准著称",
+          "difficulty": 4
+        },
+        {
+          "text": "Monte参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "monte",
+      "teamName": "Monte",
+      "teamPlacement": "13th seed"
+    },
+    {
+      "id": "Rainwaker",
+      "nickname": "Rainwaker",
+      "fullName": "Aleks Petrov",
+      "country": "Bulgaria",
+      "age": 28,
+      "birthYear": "2006",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.22",
+      "funFact": "Rainwaker is a player for Monte",
+      "hints": [
+        {
+          "text": "来自Bulgaria",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Monte",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Monte的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Monte在本次Major种子排名第13",
+          "difficulty": 3
+        },
+        {
+          "text": "保加利亚在东欧CS中占有一席之地",
+          "difficulty": 4
+        },
+        {
+          "text": "Monte参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Monte中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "monte",
+      "teamName": "Monte",
+      "teamPlacement": "13th seed"
+    }
+  ]
+}

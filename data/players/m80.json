@@ -1,0 +1,340 @@
+{
+  "teamId": "m80",
+  "teamName": "M80",
+  "players": [
+    {
+      "id": "Swisher",
+      "nickname": "Swisher",
+      "fullName": "Michael Schmid",
+      "country": "United States",
+      "age": 26,
+      "birthYear": "2000",
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 0.94,
+      "funFact": "M80的指挥核心，曾在多家北美战队效力",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于M80",
+          "difficulty": 1
+        },
+        {
+          "text": "作为M80的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "M80在本次Major种子排名第25",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 2
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.94",
+          "difficulty": 3
+        },
+        {
+          "text": "United States人，来自芝加哥",
+          "difficulty": 1
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "经常研究对手的DEMO做针对性准备",
+          "difficulty": 4
+        },
+        {
+          "text": "M80从草根联赛迅速崛起",
+          "difficulty": 3
+        }
+      ],
+      "team": "m80",
+      "teamName": "M80",
+      "teamPlacement": "25th seed"
+    },
+    {
+      "id": "slaxz",
+      "nickname": "slaxz",
+      "fullName": "Fritz Dietrich",
+      "country": "Germany",
+      "age": 27,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "0.92",
+      "funFact": "slaxz is a player for M80",
+      "hints": [
+        {
+          "text": "来自Germany",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于M80",
+          "difficulty": 1
+        },
+        {
+          "text": "作为M80的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "M80在本次Major种子排名第25",
+          "difficulty": 3
+        },
+        {
+          "text": "德国CS以严谨的战术体系著称",
+          "difficulty": 4
+        },
+        {
+          "text": "M80是北美CS的新势力",
+          "difficulty": 3
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "m80",
+      "teamName": "M80",
+      "teamPlacement": "25th seed"
+    },
+    {
+      "id": "s1n",
+      "nickname": "s1n",
+      "fullName": "s1n Unknown",
+      "country": "United States",
+      "age": 22,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.08",
+      "funFact": "s1n is a player for M80",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于M80",
+          "difficulty": 1
+        },
+        {
+          "text": "作为M80的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "M80在本次Major种子排名第25",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 3
+        },
+        {
+          "text": "M80阵容年轻且充满潜力",
+          "difficulty": 3
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "m80",
+      "teamName": "M80",
+      "teamPlacement": "25th seed"
+    },
+    {
+      "id": "Lake",
+      "nickname": "Lake",
+      "fullName": "Lake Unknown",
+      "country": "United States",
+      "age": 25,
+      "birthYear": "2001",
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.93,
+      "funFact": "M80的主狙击手",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于M80",
+          "difficulty": 1
+        },
+        {
+          "text": "作为M80的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "M80在本次Major种子排名第25",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 2
+        },
+        {
+          "text": "2001年出生，今年25岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.93",
+          "difficulty": 3
+        },
+        {
+          "text": "United States人，来自洛杉矶",
+          "difficulty": 1
+        },
+        {
+          "text": "以精准AWP闻名，是队伍远程火力的保障",
+          "difficulty": 1
+        },
+        {
+          "text": "M80阵容年轻且充满潜力",
+          "difficulty": 3
+        }
+      ],
+      "team": "m80",
+      "teamName": "M80",
+      "teamPlacement": "25th seed"
+    },
+    {
+      "id": "jBa",
+      "nickname": "jBa",
+      "fullName": "jBa Unknown",
+      "country": "United States",
+      "age": 22,
+      "birthYear": "2005",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.15",
+      "funFact": "jBa is a player for M80",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于M80",
+          "difficulty": 1
+        },
+        {
+          "text": "作为M80的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "M80在本次Major种子排名第25",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 4
+        },
+        {
+          "text": "M80从草根联赛迅速崛起",
+          "difficulty": 3
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在M80中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "m80",
+      "teamName": "M80",
+      "teamPlacement": "25th seed"
+    }
+  ]
+}

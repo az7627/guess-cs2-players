@@ -1,0 +1,344 @@
+{
+  "teamId": "astralis",
+  "teamName": "Astralis",
+  "players": [
+    {
+      "id": "HooXi",
+      "nickname": "HooXi",
+      "fullName": "Rasmus Nielsen",
+      "country": "Denmark",
+      "age": 27,
+      "birthYear": 1999,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 0.88,
+      "funFact": "曾是G2的指挥，后转会至Astralis，带领队伍重建",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Astralis",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Astralis的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Astralis在本次Major种子排名第11",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 4
+        },
+        {
+          "text": "1999年出生，今年27岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.88",
+          "difficulty": 3
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "在Overpass B区防守顽固",
+          "difficulty": 3
+        },
+        {
+          "text": "随Astralis参加过多次国际赛事",
+          "difficulty": 3
+        },
+        {
+          "text": "Astralis拿过4座Major冠军",
+          "difficulty": 3
+        }
+      ],
+      "team": "astralis",
+      "teamName": "Astralis",
+      "teamPlacement": "11th seed"
+    },
+    {
+      "id": "phzy",
+      "nickname": "phzy",
+      "fullName": "Love Smidebrant",
+      "country": "Sweden",
+      "age": 22,
+      "birthYear": 2004,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 1.06,
+      "funFact": "瑞典狙击手，从NIP青训离开后加入Astralis",
+      "hints": [
+        {
+          "text": "来自Sweden",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Astralis",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Astralis的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Astralis在本次Major种子排名第11",
+          "difficulty": 3
+        },
+        {
+          "text": "瑞典是CS历史上最成功的国家之一",
+          "difficulty": 3
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.06",
+          "difficulty": 3
+        },
+        {
+          "text": "以精准AWP闻名，是队伍远程火力的保障",
+          "difficulty": 1
+        },
+        {
+          "text": "Astralis曾创造CS史上最伟大的王朝",
+          "difficulty": 3
+        },
+        {
+          "text": "在Astralis中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "astralis",
+      "teamName": "Astralis",
+      "teamPlacement": "11th seed"
+    },
+    {
+      "id": "ryu",
+      "nickname": "ryu",
+      "fullName": "Ryu Unknown",
+      "country": "Denmark",
+      "age": 20,
+      "birthYear": 2006,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 1.02,
+      "funFact": "来自立陶宛的年轻步枪手，Astralis最年轻的成员",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Astralis",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Astralis的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Astralis在本次Major种子排名第11",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 3
+        },
+        {
+          "text": "2006年出生，今年20岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.02",
+          "difficulty": 3
+        },
+        {
+          "text": "Lithuania人，来自维尔纽斯",
+          "difficulty": 1
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "在Vertigo A坡防守是强项",
+          "difficulty": 3
+        },
+        {
+          "text": "Astralis曾创造CS史上最伟大的王朝",
+          "difficulty": 3
+        }
+      ],
+      "team": "astralis",
+      "teamName": "Astralis",
+      "teamPlacement": "11th seed"
+    },
+    {
+      "id": "jabbi",
+      "nickname": "jabbi",
+      "fullName": "Jakob Nygaard",
+      "country": "Denmark",
+      "age": 22,
+      "birthYear": 2004,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 5,
+      "hlvtRating": 1.06,
+      "funFact": "从Copenhagen Flames成名，与Staehr组成双子星",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Astralis",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Astralis的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Astralis在本次Major种子排名第11",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 3
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.06",
+          "difficulty": 3
+        },
+        {
+          "text": "Astralis曾创造CS史上最伟大的王朝",
+          "difficulty": 3
+        },
+        {
+          "text": "在Astralis中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Astralis中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "astralis",
+      "teamName": "Astralis",
+      "teamPlacement": "11th seed"
+    },
+    {
+      "id": "Staehr",
+      "nickname": "Staehr",
+      "fullName": "Victor Staehr",
+      "country": "Denmark",
+      "age": 22,
+      "birthYear": 2004,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 6,
+      "hlvtRating": 1.08,
+      "funFact": "丹麦步枪天才，2023年加入Astralis后成为核心",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Astralis",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Astralis的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Astralis在本次Major种子排名第11",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 3
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了6届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.08",
+          "difficulty": 3
+        },
+        {
+          "text": "Astralis阵中资历较深的一位",
+          "difficulty": 3
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "Astralis曾创造CS史上最伟大的王朝",
+          "difficulty": 3
+        }
+      ],
+      "team": "astralis",
+      "teamName": "Astralis",
+      "teamPlacement": "11th seed"
+    }
+  ]
+}

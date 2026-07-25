@@ -1,0 +1,344 @@
+{
+  "teamId": "lynnvision",
+  "teamName": "Lynn Vision Gaming",
+  "players": [
+    {
+      "id": "EmiliaQAQ",
+      "nickname": "EmiliaQAQ",
+      "fullName": "Emilia Unknown",
+      "country": "China",
+      "age": 19,
+      "birthYear": 2007,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": 0.89,
+      "funFact": "中国CS最年轻的一线选手",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Lynn Vision Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Lynn Vision Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Lynn Vision Gaming在本次Major种子排名第30",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 4
+        },
+        {
+          "text": "2007年出生，今年19岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "HLTV Rating约为0.89",
+          "difficulty": 3
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "LVG已经多次接近Major正赛",
+          "difficulty": 3
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "lynnvision",
+      "teamName": "Lynn Vision Gaming",
+      "teamPlacement": "30th seed"
+    },
+    {
+      "id": "z4kr",
+      "nickname": "z4kr",
+      "fullName": "Zhou Zheng",
+      "country": "China",
+      "age": 21,
+      "birthYear": 2005,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 0.97,
+      "funFact": "Lynn Vision的主狙击手，中国新一代AWP代表",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Lynn Vision Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Lynn Vision Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Lynn Vision Gaming在本次Major种子排名第30",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 3
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.97",
+          "difficulty": 3
+        },
+        {
+          "text": "用一把AWP在比赛中屡建奇功的狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "Lynn Vision Gaming阵中资历较深的一位",
+          "difficulty": 3
+        },
+        {
+          "text": "中国新生代最强狙击手之一，反应速度据传150ms以内",
+          "difficulty": 3
+        },
+        {
+          "text": "FACEIT ELO超4000，中国选手中历史排名前五",
+          "difficulty": 4
+        },
+        {
+          "text": "Lynn Vision是中国CS的新生力量",
+          "difficulty": 3
+        }
+      ],
+      "team": "lynnvision",
+      "teamName": "Lynn Vision Gaming",
+      "teamPlacement": "30th seed"
+    },
+    {
+      "id": "Westmelon",
+      "nickname": "Westmelon",
+      "fullName": "Niu Zhe",
+      "country": "China",
+      "age": 26,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.18",
+      "funFact": "Westmelon is a player for Lynn Vision Gaming",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Lynn Vision Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Lynn Vision Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Lynn Vision Gaming在本次Major种子排名第30",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 2
+        },
+        {
+          "text": "Lynn Vision是中国CS的新生力量",
+          "difficulty": 3
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "lynnvision",
+      "teamName": "Lynn Vision Gaming",
+      "teamPlacement": "30th seed"
+    },
+    {
+      "id": "C4LLM3SU3",
+      "nickname": "C4LLM3SU3",
+      "fullName": "C4LLM3SU3 Unknown",
+      "country": "China",
+      "age": 28,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "0.89",
+      "funFact": "C4LLM3SU3 is a player for Lynn Vision Gaming",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Lynn Vision Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Lynn Vision Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Lynn Vision Gaming在本次Major种子排名第30",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 4
+        },
+        {
+          "text": "Lynn Vision是中国CS的新生力量",
+          "difficulty": 3
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "lynnvision",
+      "teamName": "Lynn Vision Gaming",
+      "teamPlacement": "30th seed"
+    },
+    {
+      "id": "Starry",
+      "nickname": "Starry",
+      "fullName": "Ye Lizhi",
+      "country": "China",
+      "age": 20,
+      "birthYear": 2006,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.94,
+      "funFact": "中国最年轻的Major选手之一",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Lynn Vision Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Lynn Vision Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Lynn Vision Gaming在本次Major种子排名第30",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 2
+        },
+        {
+          "text": "2006年出生，今年20岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.94",
+          "difficulty": 3
+        },
+        {
+          "text": "Lynn Vision是中国CS的新生力量",
+          "difficulty": 3
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Lynn Vision Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "lynnvision",
+      "teamName": "Lynn Vision Gaming",
+      "teamPlacement": "30th seed"
+    }
+  ]
+}

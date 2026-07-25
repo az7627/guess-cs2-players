@@ -1,0 +1,23 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "playwright": {
+      "type": "local",
+      "command": ["npx", "@playwright/mcp@latest", "--extension", "--browser", "msedge"],
+      "enabled": true,
+      "env": {
+        "PLAYWRIGHT_MCP_EXTENSION_TOKEN": "LeGDKM5waU-1utTC8z-ZhMlbcrWeeNV-w32TvrOJ0ok"
+      }
+    },
+    "open-websearch": {
+      "type": "local",
+      "command": ["node", "C:/Users/a233d/Documents/open-web-search/build/index.js"],
+      "enabled": true,
+      "env": {
+        "MODE": "stdio",
+        "DEFAULT_SEARCH_ENGINE": "bing",
+        "ALLOWED_SEARCH_ENGINES": "bing,baidu,csdn,juejin,sogou"
+      }
+    }
+  }
+}

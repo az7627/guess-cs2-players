@@ -1,0 +1,336 @@
+{
+  "teamId": "heroic",
+  "teamName": "HEROIC",
+  "players": [
+    {
+      "id": "xfl0ud",
+      "nickname": "xfl0ud",
+      "fullName": "Yasin Koç",
+      "country": "Turkey",
+      "age": 29,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "0.99",
+      "funFact": "xfl0ud is a player for HEROIC",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于HEROIC",
+          "difficulty": 1
+        },
+        {
+          "text": "作为HEROIC的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "HEROIC在本次Major种子排名第19",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 4
+        },
+        {
+          "text": "HEROIC的选手以纪律性和执行力著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "heroic",
+      "teamName": "HEROIC",
+      "teamPlacement": "19th seed"
+    },
+    {
+      "id": "yxngstxr",
+      "nickname": "yxngstxr",
+      "fullName": "yxngstxr Unknown",
+      "country": "Europe",
+      "age": 22,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "1.22",
+      "funFact": "yxngstxr is a player for HEROIC",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于HEROIC",
+          "difficulty": 1
+        },
+        {
+          "text": "作为HEROIC的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "HEROIC在本次Major种子排名第19",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 4
+        },
+        {
+          "text": "HEROIC的选手以纪律性和执行力著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "heroic",
+      "teamName": "HEROIC",
+      "teamPlacement": "19th seed"
+    },
+    {
+      "id": "nilo",
+      "nickname": "nilo",
+      "fullName": "nilo Unknown",
+      "country": "Europe",
+      "age": 29,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "0.92",
+      "funFact": "nilo is a player for HEROIC",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于HEROIC",
+          "difficulty": 1
+        },
+        {
+          "text": "作为HEROIC的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "HEROIC在本次Major种子排名第19",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 3
+        },
+        {
+          "text": "HEROIC曾多次在国际赛事中挑战豪门",
+          "difficulty": 3
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "heroic",
+      "teamName": "HEROIC",
+      "teamPlacement": "19th seed"
+    },
+    {
+      "id": "Chr1zN",
+      "nickname": "Chr1zN",
+      "fullName": "Chr1zN Unknown",
+      "country": "Europe",
+      "age": 24,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.07",
+      "funFact": "Chr1zN is a player for HEROIC",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于HEROIC",
+          "difficulty": 1
+        },
+        {
+          "text": "作为HEROIC的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "HEROIC在本次Major种子排名第19",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 3
+        },
+        {
+          "text": "HEROIC的选手以纪律性和执行力著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "heroic",
+      "teamName": "HEROIC",
+      "teamPlacement": "19th seed"
+    },
+    {
+      "id": "susp",
+      "nickname": "susp",
+      "fullName": "susp Unknown",
+      "country": "Europe",
+      "age": 25,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.04",
+      "funFact": "susp is a player for HEROIC",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于HEROIC",
+          "difficulty": 1
+        },
+        {
+          "text": "作为HEROIC的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "HEROIC在本次Major种子排名第19",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 3
+        },
+        {
+          "text": "HEROIC的选手以纪律性和执行力著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在HEROIC中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "heroic",
+      "teamName": "HEROIC",
+      "teamPlacement": "19th seed"
+    }
+  ]
+}

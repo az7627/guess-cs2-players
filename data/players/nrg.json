@@ -1,0 +1,336 @@
+{
+  "teamId": "nrg",
+  "teamName": "NRG Esports",
+  "players": [
+    {
+      "id": "nitr0",
+      "nickname": "nitr0",
+      "fullName": "Nicholas Cannella",
+      "country": "United States",
+      "age": 25,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.05",
+      "funFact": "nitr0 is a player for NRG Esports",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于NRG Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为NRG Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "NRG Esports在本次Major种子排名第24",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 3
+        },
+        {
+          "text": "NRG曾培养过多位北美顶级选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "nrg",
+      "teamName": "NRG Esports",
+      "teamPlacement": "24th seed"
+    },
+    {
+      "id": "oSee",
+      "nickname": "oSee",
+      "fullName": "Joshua Ohm",
+      "country": "United States",
+      "age": 26,
+      "birthYear": 2000,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 5,
+      "hlvtRating": 1,
+      "funFact": "美国狙击手，曾在Liquid效力",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于NRG Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为NRG Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "NRG Esports在本次Major种子排名第24",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 2
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1",
+          "difficulty": 3
+        },
+        {
+          "text": "United States人，来自纽约",
+          "difficulty": 1
+        },
+        {
+          "text": "以精准AWP闻名，是队伍远程火力的保障",
+          "difficulty": 1
+        },
+        {
+          "text": "NRG是北美CS的传统强队",
+          "difficulty": 3
+        }
+      ],
+      "team": "nrg",
+      "teamName": "NRG Esports",
+      "teamPlacement": "24th seed"
+    },
+    {
+      "id": "br0",
+      "nickname": "br0",
+      "fullName": "Alexander Bro",
+      "country": "Denmark",
+      "age": 24,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "0.93",
+      "funFact": "br0 is a player for NRG Esports",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于NRG Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为NRG Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "NRG Esports在本次Major种子排名第24",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 3
+        },
+        {
+          "text": "NRG曾培养过多位北美顶级选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "nrg",
+      "teamName": "NRG Esports",
+      "teamPlacement": "24th seed"
+    },
+    {
+      "id": "Sonic",
+      "nickname": "Sonic",
+      "fullName": "Sonic Unknown",
+      "country": "United States",
+      "age": 27,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.02",
+      "funFact": "Sonic is a player for NRG Esports",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于NRG Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为NRG Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "NRG Esports在本次Major种子排名第24",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 2
+        },
+        {
+          "text": "NRG在2023年重返CS赛场",
+          "difficulty": 3
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "nrg",
+      "teamName": "NRG Esports",
+      "teamPlacement": "24th seed"
+    },
+    {
+      "id": "Grim",
+      "nickname": "Grim",
+      "fullName": "Michael Wince",
+      "country": "United States",
+      "age": 21,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.03",
+      "funFact": "Grim is a player for NRG Esports",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于NRG Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为NRG Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "NRG Esports在本次Major种子排名第24",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 4
+        },
+        {
+          "text": "NRG曾培养过多位北美顶级选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在NRG Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "nrg",
+      "teamName": "NRG Esports",
+      "teamPlacement": "24th seed"
+    }
+  ]
+}

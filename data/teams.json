@@ -1,0 +1,230 @@
+{
+  "event": "IEM Cologne Major 2026",
+  "totalPrizePool": "$1,250,000",
+  "teams": [
+    {
+      "id": "vitality",
+      "name": "Team Vitality",
+      "country": "France",
+      "placement": "1st seed",
+      "prizeMoney": "$45,000"
+    },
+    {
+      "id": "navi",
+      "name": "Natus Vincere",
+      "country": "Finland",
+      "placement": "2nd seed",
+      "prizeMoney": "$45,000"
+    },
+    {
+      "id": "parivision",
+      "name": "PARIVISION",
+      "country": "Russia",
+      "placement": "3rd seed",
+      "prizeMoney": "$45,000"
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora Gaming",
+      "country": "Turkey",
+      "placement": "4th seed",
+      "prizeMoney": "$45,000"
+    },
+    {
+      "id": "falcons",
+      "name": "Team Falcons",
+      "country": "Denmark",
+      "placement": "5th seed",
+      "prizeMoney": "$45,000"
+    },
+    {
+      "id": "mouz",
+      "name": "MOUZ",
+      "country": "Sweden",
+      "placement": "6th seed",
+      "prizeMoney": "$45,000"
+    },
+    {
+      "id": "furia",
+      "name": "FURIA",
+      "country": "Brazil",
+      "placement": "7th seed",
+      "prizeMoney": "$45,000"
+    },
+    {
+      "id": "mongolz",
+      "name": "The MongolZ",
+      "country": "Mongolia",
+      "placement": "8th seed",
+      "prizeMoney": "$45,000"
+    },
+    {
+      "id": "spirit",
+      "name": "Team Spirit",
+      "country": "Russia",
+      "placement": "9th seed",
+      "prizeMoney": "$20,000"
+    },
+    {
+      "id": "g2",
+      "name": "G2 Esports",
+      "country": "Bosnia and Herzegovina",
+      "placement": "10th seed",
+      "prizeMoney": "$20,000"
+    },
+    {
+      "id": "astralis",
+      "name": "Astralis",
+      "country": "Denmark",
+      "placement": "11th seed",
+      "prizeMoney": "$20,000"
+    },
+    {
+      "id": "fut",
+      "name": "FUT Esports",
+      "country": "Turkey",
+      "placement": "12th seed",
+      "prizeMoney": "$20,000"
+    },
+    {
+      "id": "monte",
+      "name": "Monte",
+      "country": "Europe",
+      "placement": "13th seed",
+      "prizeMoney": "$20,000"
+    },
+    {
+      "id": "pain",
+      "name": "paiN Gaming",
+      "country": "Brazil",
+      "placement": "14th seed",
+      "prizeMoney": "$20,000"
+    },
+    {
+      "id": "9z",
+      "name": "9z Team",
+      "country": "Argentina",
+      "placement": "15th seed",
+      "prizeMoney": "$20,000"
+    },
+    {
+      "id": "legacy",
+      "name": "Legacy",
+      "country": "Brazil",
+      "placement": "16th seed",
+      "prizeMoney": "$20,000"
+    },
+    {
+      "id": "gamerlegion",
+      "name": "GamerLegion",
+      "country": "Poland",
+      "placement": "17th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "betboom",
+      "name": "BetBoom Team",
+      "country": "Russia",
+      "placement": "18th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "heroic",
+      "name": "HEROIC",
+      "country": "Turkey",
+      "placement": "19th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "liquid",
+      "name": "Team Liquid",
+      "country": "Poland",
+      "placement": "20th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "big",
+      "name": "BIG",
+      "country": "Germany",
+      "placement": "21th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "b8",
+      "name": "B8",
+      "country": "Ukraine",
+      "placement": "22th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "sinners",
+      "name": "SINNERS Esports",
+      "country": "Czech Republic",
+      "placement": "23th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "nrg",
+      "name": "NRG Esports",
+      "country": "United States",
+      "placement": "24th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "m80",
+      "name": "M80",
+      "country": "United States",
+      "placement": "25th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "mibr",
+      "name": "MIBR",
+      "country": "Brazil",
+      "placement": "26th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "sharks",
+      "name": "Sharks Esports",
+      "country": "Brazil",
+      "placement": "27th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "gaimin",
+      "name": "Gaimin Gladiators",
+      "country": "Brazil",
+      "placement": "28th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "tyloo",
+      "name": "TYLOO",
+      "country": "China",
+      "placement": "29th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "lynnvision",
+      "name": "Lynn Vision Gaming",
+      "country": "China",
+      "placement": "30th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "thunderaustralia",
+      "name": "THUNDER dOWNUNDER",
+      "country": "Australia",
+      "placement": "31th seed",
+      "prizeMoney": "$10,000"
+    },
+    {
+      "id": "flyquest",
+      "name": "FlyQuest",
+      "country": "Australia",
+      "placement": "32th seed",
+      "prizeMoney": "$10,000"
+    }
+  ]
+}

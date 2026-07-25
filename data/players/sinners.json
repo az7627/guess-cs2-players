@@ -1,0 +1,340 @@
+{
+  "teamId": "sinners",
+  "teamName": "SINNERS Esports",
+  "players": [
+    {
+      "id": "SHOCK",
+      "nickname": "SHOCK",
+      "fullName": "Max Kvapil",
+      "country": "Czech Republic",
+      "age": 23,
+      "birthYear": "2003",
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.89,
+      "funFact": "捷克CS的指挥代表",
+      "hints": [
+        {
+          "text": "来自Czech Republic",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于SINNERS Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为SINNERS Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "SINNERS Esports在本次Major种子排名第23",
+          "difficulty": 3
+        },
+        {
+          "text": "捷克CS底蕴深厚",
+          "difficulty": 3
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.89",
+          "difficulty": 3
+        },
+        {
+          "text": "Czech Republic人，来自布拉格",
+          "difficulty": 1
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "SINNERS Esports参加了2026科隆Major",
+          "difficulty": 3
+        }
+      ],
+      "team": "sinners",
+      "teamName": "SINNERS Esports",
+      "teamPlacement": "23th seed"
+    },
+    {
+      "id": "beastik",
+      "nickname": "beastik",
+      "fullName": "Sebastian Dano",
+      "country": "Slovakia",
+      "age": 25,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.91,
+      "funFact": "SINNERS的核心步枪手",
+      "hints": [
+        {
+          "text": "来自Slovakia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于SINNERS Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为SINNERS Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "SINNERS Esports在本次Major种子排名第23",
+          "difficulty": 3
+        },
+        {
+          "text": "斯洛伐克选手常在捷克体系中成长",
+          "difficulty": 3
+        },
+        {
+          "text": "2001年出生，今年25岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.91",
+          "difficulty": 3
+        },
+        {
+          "text": "Czech Republic人，来自布拉格",
+          "difficulty": 1
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "SINNERS Esports参加了2026科隆Major",
+          "difficulty": 3
+        }
+      ],
+      "team": "sinners",
+      "teamName": "SINNERS Esports",
+      "teamPlacement": "23th seed"
+    },
+    {
+      "id": "kisserek",
+      "nickname": "kisserek",
+      "fullName": "kisserek Unknown",
+      "country": "Czech Republic",
+      "age": 20,
+      "birthYear": "2006",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "1.05",
+      "funFact": "kisserek is a player for SINNERS Esports",
+      "hints": [
+        {
+          "text": "来自Czech Republic",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于SINNERS Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为SINNERS Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "SINNERS Esports在本次Major种子排名第23",
+          "difficulty": 3
+        },
+        {
+          "text": "捷克CS底蕴深厚",
+          "difficulty": 2
+        },
+        {
+          "text": "SINNERS Esports参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "sinners",
+      "teamName": "SINNERS Esports",
+      "teamPlacement": "23th seed"
+    },
+    {
+      "id": "stressarN",
+      "nickname": "stressarN",
+      "fullName": "stressarN Unknown",
+      "country": "Czech Republic",
+      "age": 25,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.11",
+      "funFact": "stressarN is a player for SINNERS Esports",
+      "hints": [
+        {
+          "text": "来自Czech Republic",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于SINNERS Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为SINNERS Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "SINNERS Esports在本次Major种子排名第23",
+          "difficulty": 3
+        },
+        {
+          "text": "捷克CS底蕴深厚",
+          "difficulty": 2
+        },
+        {
+          "text": "SINNERS Esports参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "sinners",
+      "teamName": "SINNERS Esports",
+      "teamPlacement": "23th seed"
+    },
+    {
+      "id": "MoDo",
+      "nickname": "MoDo",
+      "fullName": "MoDo Unknown",
+      "country": "Czech Republic",
+      "age": 20,
+      "birthYear": "1999",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "0.91",
+      "funFact": "MoDo is a player for SINNERS Esports",
+      "hints": [
+        {
+          "text": "来自Czech Republic",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于SINNERS Esports",
+          "difficulty": 1
+        },
+        {
+          "text": "作为SINNERS Esports的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "SINNERS Esports在本次Major种子排名第23",
+          "difficulty": 3
+        },
+        {
+          "text": "捷克CS底蕴深厚",
+          "difficulty": 3
+        },
+        {
+          "text": "SINNERS Esports参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在SINNERS Esports中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "sinners",
+      "teamName": "SINNERS Esports",
+      "teamPlacement": "23th seed"
+    }
+  ]
+}

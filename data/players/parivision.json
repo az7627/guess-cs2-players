@@ -1,0 +1,336 @@
+{
+  "teamId": "parivision",
+  "teamName": "PARIVISION",
+  "players": [
+    {
+      "id": "Jame",
+      "nickname": "Jame",
+      "fullName": "Dzhami Ali",
+      "country": "Russia",
+      "age": 28,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.12",
+      "funFact": "Jame is a player for PARIVISION",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于PARIVISION",
+          "difficulty": 1
+        },
+        {
+          "text": "作为PARIVISION的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "PARIVISION在本次Major种子排名第3",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "PARIVISION是一支俄罗斯新锐战队",
+          "difficulty": 3
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "parivision",
+      "teamName": "PARIVISION",
+      "teamPlacement": "3rd seed"
+    },
+    {
+      "id": "BELCHONOKK",
+      "nickname": "BELCHONOKK",
+      "fullName": "Andrey Yasinskiy",
+      "country": "Russia",
+      "age": 21,
+      "birthYear": 2005,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.98,
+      "funFact": "从Spirit青训转会到GamerLegion再到PARIVISION的俄罗斯天才",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于PARIVISION",
+          "difficulty": 1
+        },
+        {
+          "text": "作为PARIVISION的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "PARIVISION在本次Major种子排名第3",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.98",
+          "difficulty": 3
+        },
+        {
+          "text": "PARIVISION阵容中有多位前一线战队选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "parivision",
+      "teamName": "PARIVISION",
+      "teamPlacement": "3rd seed"
+    },
+    {
+      "id": "xiELO",
+      "nickname": "xiELO",
+      "fullName": "Vladislav Ryzhkov",
+      "country": "Russia",
+      "age": 27,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "1.24",
+      "funFact": "xiELO is a player for PARIVISION",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于PARIVISION",
+          "difficulty": 1
+        },
+        {
+          "text": "作为PARIVISION的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "PARIVISION在本次Major种子排名第3",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 4
+        },
+        {
+          "text": "PARIVISION阵容中有多位前一线战队选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "parivision",
+      "teamName": "PARIVISION",
+      "teamPlacement": "3rd seed"
+    },
+    {
+      "id": "nota",
+      "nickname": "nota",
+      "fullName": "Alexander Morozov",
+      "country": "Russia",
+      "age": 21,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "0.96",
+      "funFact": "nota is a player for PARIVISION",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于PARIVISION",
+          "difficulty": 1
+        },
+        {
+          "text": "作为PARIVISION的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "PARIVISION在本次Major种子排名第3",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 4
+        },
+        {
+          "text": "PARIVISION在近期比赛中表现亮眼",
+          "difficulty": 3
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "parivision",
+      "teamName": "PARIVISION",
+      "teamPlacement": "3rd seed"
+    },
+    {
+      "id": "zweih",
+      "nickname": "zweih",
+      "fullName": "Artem Stepanov",
+      "country": "Russia",
+      "age": 21,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.03",
+      "funFact": "zweih is a player for PARIVISION",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于PARIVISION",
+          "difficulty": 1
+        },
+        {
+          "text": "作为PARIVISION的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "PARIVISION在本次Major种子排名第3",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "PARIVISION是一支俄罗斯新锐战队",
+          "difficulty": 3
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在PARIVISION中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "parivision",
+      "teamName": "PARIVISION",
+      "teamPlacement": "3rd seed"
+    }
+  ]
+}

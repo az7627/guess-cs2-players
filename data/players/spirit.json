@@ -1,0 +1,352 @@
+{
+  "teamId": "spirit",
+  "teamName": "Team Spirit",
+  "players": [
+    {
+      "id": "magixx",
+      "nickname": "magixx",
+      "fullName": "Boris Vorobiev",
+      "country": "Russia",
+      "age": 23,
+      "birthYear": 2003,
+      "role": "Rifler",
+      "majorTitles": 1,
+      "majorAppearances": 6,
+      "hlvtRating": 1.05,
+      "funFact": "Spirit队内服役时间最长的选手之一",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Spirit",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Spirit的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Spirit在本次Major种子排名第9",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 2
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了6届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.05",
+          "difficulty": 3
+        },
+        {
+          "text": "在Dust2 A大混战总能活到最后",
+          "difficulty": 3
+        },
+        {
+          "text": "Spirit的青训体系是独联体地区最成功的之一",
+          "difficulty": 3
+        }
+      ],
+      "team": "spirit",
+      "teamName": "Team Spirit",
+      "teamPlacement": "9th seed"
+    },
+    {
+      "id": "donk",
+      "nickname": "donk",
+      "fullName": "Danil Kryshkovets",
+      "country": "Russia",
+      "age": 18,
+      "birthYear": 2008,
+      "role": "Rifler",
+      "majorTitles": 1,
+      "majorAppearances": 4,
+      "hlvtRating": 1.4,
+      "funFact": "2024年横空出世，以史上最高的赛事rating震撼CS界，夺得上海Major冠军",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Spirit",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Spirit的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Spirit在本次Major种子排名第9",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "2008年出生，今年18岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.4",
+          "difficulty": 3
+        },
+        {
+          "text": "随Team Spirit参加过多次国际赛事",
+          "difficulty": 3
+        },
+        {
+          "text": "2024年HLTV年度TOP1，创CS2时代多项rating记录",
+          "difficulty": 3
+        },
+        {
+          "text": "以极其激进的突破手风格闻名，场均首杀率极高",
+          "difficulty": 5
+        },
+        {
+          "text": "Spirit的青训体系是独联体地区最成功的之一",
+          "difficulty": 3
+        }
+      ],
+      "team": "spirit",
+      "teamName": "Team Spirit",
+      "teamPlacement": "9th seed"
+    },
+    {
+      "id": "zont1x",
+      "nickname": "zont1x",
+      "fullName": "Myroslav Plakhotia",
+      "country": "Ukraine",
+      "age": 20,
+      "birthYear": 2006,
+      "role": "Rifler",
+      "majorTitles": 1,
+      "majorAppearances": 4,
+      "hlvtRating": 1.09,
+      "funFact": "Spirit青训出品，在加盟主队后迅速成长为顶级步枪手",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Spirit",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Spirit的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Spirit在本次Major种子排名第9",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 2
+        },
+        {
+          "text": "2006年出生，今年20岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.09",
+          "difficulty": 3
+        },
+        {
+          "text": "Spirit的青训体系是独联体地区最成功的之一",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Spirit中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "spirit",
+      "teamName": "Team Spirit",
+      "teamPlacement": "9th seed"
+    },
+    {
+      "id": "sh1ro",
+      "nickname": "sh1ro",
+      "fullName": "Dmitriy Sokolov",
+      "country": "Russia",
+      "age": 24,
+      "birthYear": 2002,
+      "role": "AWPer",
+      "majorTitles": 1,
+      "majorAppearances": 6,
+      "hlvtRating": 1.18,
+      "funFact": "以极其保守却致命的AWP风格著称，曾是Cloud9核心",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Spirit",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Spirit的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Spirit在本次Major种子排名第9",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 4
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了6届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.18",
+          "difficulty": 3
+        },
+        {
+          "text": "用一把AWP在比赛中屡建奇功的狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "Team Spirit阵中资历较深的一位",
+          "difficulty": 3
+        },
+        {
+          "text": "Spirit是2024年IEM Katowice冠军",
+          "difficulty": 3
+        }
+      ],
+      "team": "spirit",
+      "teamName": "Team Spirit",
+      "teamPlacement": "9th seed"
+    },
+    {
+      "id": "tN1R",
+      "nickname": "tN1R",
+      "fullName": "tN1R Unknown",
+      "country": "Russia",
+      "age": 19,
+      "birthYear": 2007,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 1.03,
+      "funFact": "2025年加入Spirit替代chopper，为队伍注入新活力",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Spirit",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Spirit的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Spirit在本次Major种子排名第9",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 2
+        },
+        {
+          "text": "2007年出生，今年19岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.03",
+          "difficulty": 3
+        },
+        {
+          "text": "Belarus人，来自Belarus",
+          "difficulty": 1
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "耳机音量开得大，能清晰听到细微脚步",
+          "difficulty": 4
+        },
+        {
+          "text": "Spirit的青训体系是独联体地区最成功的之一",
+          "difficulty": 3
+        }
+      ],
+      "team": "spirit",
+      "teamName": "Team Spirit",
+      "teamPlacement": "9th seed"
+    }
+  ]
+}

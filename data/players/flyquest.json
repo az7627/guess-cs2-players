@@ -1,0 +1,340 @@
+{
+  "teamId": "flyquest",
+  "teamName": "FlyQuest",
+  "players": [
+    {
+      "id": "jks",
+      "nickname": "jks",
+      "fullName": "Justin Savage",
+      "country": "Australia",
+      "age": 30,
+      "birthYear": 1996,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 8,
+      "hlvtRating": 1.03,
+      "funFact": "澳大利亚最成功的CS选手之一，曾在G2、Renegades、FaZe效力",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FlyQuest",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FlyQuest的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FlyQuest在本次Major种子排名第32",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 2
+        },
+        {
+          "text": "1996年出生，今年30岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了8届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.03",
+          "difficulty": 3
+        },
+        {
+          "text": "Australia人，来自墨尔本",
+          "difficulty": 1
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "FlyQuest的阵容中有澳洲CS最知名的选手",
+          "difficulty": 3
+        }
+      ],
+      "team": "flyquest",
+      "teamName": "FlyQuest",
+      "teamPlacement": "32th seed"
+    },
+    {
+      "id": "nettik",
+      "nickname": "nettik",
+      "fullName": "nettik Unknown",
+      "country": "Australia",
+      "age": 25,
+      "birthYear": 2001,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.9,
+      "funFact": "THUNDERdOWNUNDER的核心输出",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FlyQuest",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FlyQuest的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FlyQuest在本次Major种子排名第32",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 3
+        },
+        {
+          "text": "2001年出生，今年25岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.9",
+          "difficulty": 3
+        },
+        {
+          "text": "Australia人，来自墨尔本",
+          "difficulty": 1
+        },
+        {
+          "text": "在Dust2 A大混战总能活到最后",
+          "difficulty": 3
+        },
+        {
+          "text": "FlyQuest是澳洲CS重新崛起的标志",
+          "difficulty": 3
+        }
+      ],
+      "team": "flyquest",
+      "teamName": "FlyQuest",
+      "teamPlacement": "32th seed"
+    },
+    {
+      "id": "story",
+      "nickname": "story",
+      "fullName": "story Unknown",
+      "country": "Australia",
+      "age": 24,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.07",
+      "funFact": "story is a player for FlyQuest",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FlyQuest",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FlyQuest的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FlyQuest在本次Major种子排名第32",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 3
+        },
+        {
+          "text": "FlyQuest是澳洲CS重新崛起的标志",
+          "difficulty": 3
+        },
+        {
+          "text": "在FlyQuest中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FlyQuest中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FlyQuest中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FlyQuest中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FlyQuest中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在FlyQuest中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "flyquest",
+      "teamName": "FlyQuest",
+      "teamPlacement": "32th seed"
+    },
+    {
+      "id": "Vexite",
+      "nickname": "Vexite",
+      "fullName": "Declan Portelli",
+      "country": "Australia",
+      "age": 23,
+      "birthYear": 2003,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 0.99,
+      "funFact": "澳洲新生代最有潜力的步枪手",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FlyQuest",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FlyQuest的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FlyQuest在本次Major种子排名第32",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 3
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.99",
+          "difficulty": 3
+        },
+        {
+          "text": "Australia人，来自墨尔本",
+          "difficulty": 1
+        },
+        {
+          "text": "FlyQuest在全球范围内都拥有粉丝",
+          "difficulty": 3
+        },
+        {
+          "text": "在FlyQuest中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "flyquest",
+      "teamName": "FlyQuest",
+      "teamPlacement": "32th seed"
+    },
+    {
+      "id": "INS",
+      "nickname": "INS",
+      "fullName": "Joshua Potter",
+      "country": "New Zealand",
+      "age": 26,
+      "birthYear": 2000,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 0.96,
+      "funFact": "澳大利亚CS的指挥核心，带领FlyQuest打进Major",
+      "hints": [
+        {
+          "text": "来自New Zealand",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于FlyQuest",
+          "difficulty": 1
+        },
+        {
+          "text": "作为FlyQuest的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "FlyQuest在本次Major种子排名第32",
+          "difficulty": 3
+        },
+        {
+          "text": "新西兰选手常常与澳洲CS并肩作战",
+          "difficulty": 2
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.96",
+          "difficulty": 3
+        },
+        {
+          "text": "Australia人，来自布里斯班",
+          "difficulty": 1
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "随FlyQuest参加过多次国际赛事",
+          "difficulty": 3
+        },
+        {
+          "text": "FlyQuest的阵容中有澳洲CS最知名的选手",
+          "difficulty": 3
+        }
+      ],
+      "team": "flyquest",
+      "teamName": "FlyQuest",
+      "teamPlacement": "32th seed"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "teamId": "b8",
+  "teamName": "B8",
+  "players": [
+    {
+      "id": "alex666",
+      "nickname": "alex666",
+      "fullName": "Alexey Yarmoshchuk",
+      "country": "Ukraine",
+      "age": 23,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "0.96",
+      "funFact": "alex666 is a player for B8",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于B8",
+          "difficulty": 1
+        },
+        {
+          "text": "作为B8的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "B8在本次Major种子排名第22",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 3
+        },
+        {
+          "text": "B8在欧洲二线赛场逐渐积累了经验",
+          "difficulty": 3
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "b8",
+      "teamName": "B8",
+      "teamPlacement": "22th seed"
+    },
+    {
+      "id": "npl",
+      "nickname": "npl",
+      "fullName": "Andrii Kukharskyi",
+      "country": "Ukraine",
+      "age": 24,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.12",
+      "funFact": "npl is a player for B8",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于B8",
+          "difficulty": 1
+        },
+        {
+          "text": "作为B8的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "B8在本次Major种子排名第22",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 3
+        },
+        {
+          "text": "B8在欧洲二线赛场逐渐积累了经验",
+          "difficulty": 3
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "b8",
+      "teamName": "B8",
+      "teamPlacement": "22th seed"
+    },
+    {
+      "id": "kensizor",
+      "nickname": "kensizor",
+      "fullName": "kensizor Unknown",
+      "country": "Ukraine",
+      "age": 23,
+      "birthYear": "2005",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.23",
+      "funFact": "kensizor is a player for B8",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于B8",
+          "difficulty": 1
+        },
+        {
+          "text": "作为B8的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "B8在本次Major种子排名第22",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 3
+        },
+        {
+          "text": "B8是乌克兰CS的年轻力量",
+          "difficulty": 3
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "b8",
+      "teamName": "B8",
+      "teamPlacement": "22th seed"
+    },
+    {
+      "id": "esenthial",
+      "nickname": "esenthial",
+      "fullName": "Dmytro Tsvir",
+      "country": "Ukraine",
+      "age": 20,
+      "birthYear": 2006,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": 0.88,
+      "funFact": "B8最年轻的选手",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于B8",
+          "difficulty": 1
+        },
+        {
+          "text": "作为B8的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "B8在本次Major种子排名第22",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 2
+        },
+        {
+          "text": "2006年出生，今年20岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "HLTV Rating约为0.88",
+          "difficulty": 3
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "B8在欧洲二线赛场逐渐积累了经验",
+          "difficulty": 3
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "b8",
+      "teamName": "B8",
+      "teamPlacement": "22th seed"
+    },
+    {
+      "id": "s1zzi",
+      "nickname": "s1zzi",
+      "fullName": "s1zzi Unknown",
+      "country": "Ukraine",
+      "age": 27,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.07",
+      "funFact": "s1zzi is a player for B8",
+      "hints": [
+        {
+          "text": "来自Ukraine",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于B8",
+          "difficulty": 1
+        },
+        {
+          "text": "作为B8的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "B8在本次Major种子排名第22",
+          "difficulty": 3
+        },
+        {
+          "text": "乌克兰近年涌现了大量年轻CS天才",
+          "difficulty": 3
+        },
+        {
+          "text": "B8在欧洲二线赛场逐渐积累了经验",
+          "difficulty": 3
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在B8中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "b8",
+      "teamName": "B8",
+      "teamPlacement": "22th seed"
+    }
+  ]
+}

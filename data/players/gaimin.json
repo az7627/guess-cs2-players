@@ -1,0 +1,340 @@
+{
+  "teamId": "gaimin",
+  "teamName": "Gaimin Gladiators",
+  "players": [
+    {
+      "id": "JOTA",
+      "nickname": "JOTA",
+      "fullName": "JOTA Unknown",
+      "country": "Brazil",
+      "age": 26,
+      "birthYear": "2006",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "0.97",
+      "funFact": "JOTA is a player for Gaimin Gladiators",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Gaimin Gladiators",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Gaimin Gladiators的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Gaimin Gladiators在本次Major种子排名第28",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "Gaimin Gladiators是加拿大电竞品牌",
+          "difficulty": 3
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "gaimin",
+      "teamName": "Gaimin Gladiators",
+      "teamPlacement": "28th seed"
+    },
+    {
+      "id": "NEKIZ",
+      "nickname": "NEKIZ",
+      "fullName": "Gabriel Schenato",
+      "country": "Brazil",
+      "age": 26,
+      "birthYear": 2000,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 0.91,
+      "funFact": "Legacy的指挥，曾效力于多个巴西队伍",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Gaimin Gladiators",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Gaimin Gladiators的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Gaimin Gladiators在本次Major种子排名第28",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 3
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.91",
+          "difficulty": 3
+        },
+        {
+          "text": "队伍的场上指挥，每一回合的战术都由他策动",
+          "difficulty": 1
+        },
+        {
+          "text": "在ESL和BLAST等大赛中积攒了不少经验",
+          "difficulty": 3
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "Gaimin的CS阵容以南美选手为主",
+          "difficulty": 3
+        }
+      ],
+      "team": "gaimin",
+      "teamName": "Gaimin Gladiators",
+      "teamPlacement": "28th seed"
+    },
+    {
+      "id": "HEN1",
+      "nickname": "HEN1",
+      "fullName": "Henrique Teles",
+      "country": "Brazil",
+      "age": 29,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.19",
+      "funFact": "HEN1 is a player for Gaimin Gladiators",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Gaimin Gladiators",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Gaimin Gladiators的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Gaimin Gladiators在本次Major种子排名第28",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 3
+        },
+        {
+          "text": "Gaimin Gladiators是加拿大电竞品牌",
+          "difficulty": 3
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "gaimin",
+      "teamName": "Gaimin Gladiators",
+      "teamPlacement": "28th seed"
+    },
+    {
+      "id": "Luken",
+      "nickname": "Luken",
+      "fullName": "Luken Unknown",
+      "country": "Brazil",
+      "age": 26,
+      "birthYear": "2006",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "1.02",
+      "funFact": "Luken is a player for Gaimin Gladiators",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Gaimin Gladiators",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Gaimin Gladiators的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Gaimin Gladiators在本次Major种子排名第28",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "Gaimin的CS阵容以南美选手为主",
+          "difficulty": 3
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "gaimin",
+      "teamName": "Gaimin Gladiators",
+      "teamPlacement": "28th seed"
+    },
+    {
+      "id": "felps",
+      "nickname": "felps",
+      "fullName": "João Vasconcellos",
+      "country": "Brazil",
+      "age": 20,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "1.15",
+      "funFact": "felps is a player for Gaimin Gladiators",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Gaimin Gladiators",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Gaimin Gladiators的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Gaimin Gladiators在本次Major种子排名第28",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 3
+        },
+        {
+          "text": "Gaimin的CS阵容以南美选手为主",
+          "difficulty": 3
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Gaimin Gladiators中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "gaimin",
+      "teamName": "Gaimin Gladiators",
+      "teamPlacement": "28th seed"
+    }
+  ]
+}

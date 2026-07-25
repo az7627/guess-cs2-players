@@ -1,0 +1,340 @@
+{
+  "teamId": "tyloo",
+  "teamName": "TYLOO",
+  "players": [
+    {
+      "id": "JamYoung",
+      "nickname": "JamYoung",
+      "fullName": "Yang Yi",
+      "country": "China",
+      "age": 22,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 0.96,
+      "funFact": "中国新生代最有天赋的选手之一",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于TYLOO",
+          "difficulty": 1
+        },
+        {
+          "text": "作为TYLOO的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "TYLOO在本次Major种子排名第29",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 4
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.96",
+          "difficulty": 3
+        },
+        {
+          "text": "TYLOO正在重建新一代阵容",
+          "difficulty": 3
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "tyloo",
+      "teamName": "TYLOO",
+      "teamPlacement": "29th seed"
+    },
+    {
+      "id": "Mercury",
+      "nickname": "Mercury",
+      "fullName": "Mercury Unknown",
+      "country": "China",
+      "age": 24,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "0.94",
+      "funFact": "Mercury is a player for TYLOO",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于TYLOO",
+          "difficulty": 1
+        },
+        {
+          "text": "作为TYLOO的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "TYLOO在本次Major种子排名第29",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 3
+        },
+        {
+          "text": "TYLOO正在重建新一代阵容",
+          "difficulty": 3
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "tyloo",
+      "teamName": "TYLOO",
+      "teamPlacement": "29th seed"
+    },
+    {
+      "id": "Moseyuh",
+      "nickname": "Moseyuh",
+      "fullName": "Moseyuh Unknown",
+      "country": "China",
+      "age": 21,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "0.89",
+      "funFact": "Moseyuh is a player for TYLOO",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于TYLOO",
+          "difficulty": 1
+        },
+        {
+          "text": "作为TYLOO的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "TYLOO在本次Major种子排名第29",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 3
+        },
+        {
+          "text": "TYLOO曾是中国CS唯一的世界级代表",
+          "difficulty": 3
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "tyloo",
+      "teamName": "TYLOO",
+      "teamPlacement": "29th seed"
+    },
+    {
+      "id": "Jee",
+      "nickname": "Jee",
+      "fullName": "Ji Xuekai",
+      "country": "China",
+      "age": 22,
+      "birthYear": 2004,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.88,
+      "funFact": "Lynn Vision的稳定步枪手",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于TYLOO",
+          "difficulty": 1
+        },
+        {
+          "text": "作为TYLOO的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "TYLOO在本次Major种子排名第29",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 2
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.88",
+          "difficulty": 3
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "在Dust2 A大混战总能活到最后",
+          "difficulty": 3
+        },
+        {
+          "text": "打法偏向辅助和补枪位，被称\"最被低估的选手\"",
+          "difficulty": 4
+        },
+        {
+          "text": "TYLOO正在重建新一代阵容",
+          "difficulty": 3
+        }
+      ],
+      "team": "tyloo",
+      "teamName": "TYLOO",
+      "teamPlacement": "29th seed"
+    },
+    {
+      "id": "Zero",
+      "nickname": "Zero",
+      "fullName": "Zero Unknown",
+      "country": "China",
+      "age": 29,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "0.94",
+      "funFact": "Zero is a player for TYLOO",
+      "hints": [
+        {
+          "text": "来自China",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于TYLOO",
+          "difficulty": 1
+        },
+        {
+          "text": "作为TYLOO的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "TYLOO在本次Major种子排名第29",
+          "difficulty": 3
+        },
+        {
+          "text": "中国CS经历了漫长的发展正在迅速崛起",
+          "difficulty": 2
+        },
+        {
+          "text": "TYLOO正在重建新一代阵容",
+          "difficulty": 3
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在TYLOO中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "tyloo",
+      "teamName": "TYLOO",
+      "teamPlacement": "29th seed"
+    }
+  ]
+}

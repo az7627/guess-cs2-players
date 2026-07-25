@@ -1,0 +1,336 @@
+{
+  "teamId": "liquid",
+  "teamName": "Team Liquid",
+  "players": [
+    {
+      "id": "siuhy",
+      "nickname": "siuhy",
+      "fullName": "Kamil Szkaradek",
+      "country": "Poland",
+      "age": 29,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "0.91",
+      "funFact": "siuhy is a player for Team Liquid",
+      "hints": [
+        {
+          "text": "来自Poland",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Liquid",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Liquid的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Liquid在本次Major种子排名第20",
+          "difficulty": 3
+        },
+        {
+          "text": "波兰CS有着辉煌的历史传承",
+          "difficulty": 4
+        },
+        {
+          "text": "Liquid的2019年阵容是北美CS的巅峰",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "liquid",
+      "teamName": "Team Liquid",
+      "teamPlacement": "20th seed"
+    },
+    {
+      "id": "EliGE",
+      "nickname": "EliGE",
+      "fullName": "Jonathan Jablonowski",
+      "country": "United States",
+      "age": 24,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.06",
+      "funFact": "EliGE is a player for Team Liquid",
+      "hints": [
+        {
+          "text": "来自United States",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Liquid",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Liquid的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Liquid在本次Major种子排名第20",
+          "difficulty": 3
+        },
+        {
+          "text": "北美CS正在经历复兴",
+          "difficulty": 3
+        },
+        {
+          "text": "Liquid曾创造大满贯最快完成纪录",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "liquid",
+      "teamName": "Team Liquid",
+      "teamPlacement": "20th seed"
+    },
+    {
+      "id": "malbsMd",
+      "nickname": "malbsMd",
+      "fullName": "Mario Samayoa",
+      "country": "Guatemala",
+      "age": 21,
+      "birthYear": 2005,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 1.1,
+      "funFact": "来自危地马拉，是CS顶级赛事中极其罕见的中美洲选手",
+      "hints": [
+        {
+          "text": "来自Guatemala",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Liquid",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Liquid的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Liquid在本次Major种子排名第20",
+          "difficulty": 3
+        },
+        {
+          "text": "来自中美洲小国的世界级选手极为稀有",
+          "difficulty": 2
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.1",
+          "difficulty": 3
+        },
+        {
+          "text": "Guatemala人，来自危地马拉城",
+          "difficulty": 1
+        },
+        {
+          "text": "危地马拉历史上第一位HLTV TOP20选手，2024年排名第12",
+          "difficulty": 3
+        },
+        {
+          "text": "Liquid的2019年阵容是北美CS的巅峰",
+          "difficulty": 3
+        }
+      ],
+      "team": "liquid",
+      "teamName": "Team Liquid",
+      "teamPlacement": "20th seed"
+    },
+    {
+      "id": "ultimate",
+      "nickname": "ultimate",
+      "fullName": "Roland Tomkowiak",
+      "country": "Poland",
+      "age": 21,
+      "birthYear": 2005,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 1,
+      "funFact": "波兰年轻狙击手，从波兰国内联赛一路打上Major舞台",
+      "hints": [
+        {
+          "text": "来自Poland",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Liquid",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Liquid的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Liquid在本次Major种子排名第20",
+          "difficulty": 3
+        },
+        {
+          "text": "波兰CS有着辉煌的历史传承",
+          "difficulty": 4
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1",
+          "difficulty": 3
+        },
+        {
+          "text": "Liquid曾创造大满贯最快完成纪录",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "liquid",
+      "teamName": "Team Liquid",
+      "teamPlacement": "20th seed"
+    },
+    {
+      "id": "NAF",
+      "nickname": "NAF",
+      "fullName": "Keith Markovic",
+      "country": "Canada",
+      "age": 28,
+      "birthYear": 1998,
+      "role": "Rifler",
+      "majorTitles": 1,
+      "majorAppearances": 11,
+      "hlvtRating": 1.08,
+      "funFact": "加拿大CS传奇，Liquid的长期核心，以无比冷静的打法著称",
+      "hints": [
+        {
+          "text": "来自Canada",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Liquid",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Liquid的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Liquid在本次Major种子排名第20",
+          "difficulty": 3
+        },
+        {
+          "text": "加拿大选手以冷静和精准著称",
+          "difficulty": 2
+        },
+        {
+          "text": "1998年出生，今年28岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了11届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.08",
+          "difficulty": 3
+        },
+        {
+          "text": "Liquid曾创造大满贯最快完成纪录",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Liquid中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "liquid",
+      "teamName": "Team Liquid",
+      "teamPlacement": "20th seed"
+    }
+  ]
+}

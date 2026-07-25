@@ -1,0 +1,340 @@
+{
+  "teamId": "gamerlegion",
+  "teamName": "GamerLegion",
+  "players": [
+    {
+      "id": "Snax",
+      "nickname": "Snax",
+      "fullName": "Janusz Pogorzelski",
+      "country": "Poland",
+      "age": 33,
+      "birthYear": 1993,
+      "role": "IGL",
+      "majorTitles": 1,
+      "majorAppearances": 12,
+      "hlvtRating": 0.96,
+      "funFact": "波兰CS传奇，2014年随Virtus.pro赢得Major冠军，之后转型为IGL加入G2",
+      "hints": [
+        {
+          "text": "来自Poland",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于GamerLegion",
+          "difficulty": 1
+        },
+        {
+          "text": "作为GamerLegion的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "GamerLegion在本次Major种子排名第17",
+          "difficulty": 3
+        },
+        {
+          "text": "波兰CS有着辉煌的历史传承",
+          "difficulty": 3
+        },
+        {
+          "text": "1993年出生，今年33岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "已赢得1座Major冠军",
+          "difficulty": 2
+        },
+        {
+          "text": "参加了12届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.96",
+          "difficulty": 3
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "随G2 Esports参加过多次国际赛事",
+          "difficulty": 3
+        },
+        {
+          "text": "GamerLegion曾在Major上创造奇迹",
+          "difficulty": 3
+        }
+      ],
+      "team": "gamerlegion",
+      "teamName": "GamerLegion",
+      "teamPlacement": "17th seed"
+    },
+    {
+      "id": "hypex",
+      "nickname": "hypex",
+      "fullName": "hypex Unknown",
+      "country": "Europe",
+      "age": 22,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.02",
+      "funFact": "hypex is a player for GamerLegion",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于GamerLegion",
+          "difficulty": 1
+        },
+        {
+          "text": "作为GamerLegion的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "GamerLegion在本次Major种子排名第17",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 4
+        },
+        {
+          "text": "GamerLegion以发掘年轻天才著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "gamerlegion",
+      "teamName": "GamerLegion",
+      "teamPlacement": "17th seed"
+    },
+    {
+      "id": "REZ",
+      "nickname": "REZ",
+      "fullName": "Fredrik Sterner",
+      "country": "Sweden",
+      "age": 20,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "0.85",
+      "funFact": "REZ is a player for GamerLegion",
+      "hints": [
+        {
+          "text": "来自Sweden",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于GamerLegion",
+          "difficulty": 1
+        },
+        {
+          "text": "作为GamerLegion的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "GamerLegion在本次Major种子排名第17",
+          "difficulty": 3
+        },
+        {
+          "text": "瑞典是CS历史上最成功的国家之一",
+          "difficulty": 3
+        },
+        {
+          "text": "GamerLegion以发掘年轻天才著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "gamerlegion",
+      "teamName": "GamerLegion",
+      "teamPlacement": "17th seed"
+    },
+    {
+      "id": "PR",
+      "nickname": "PR",
+      "fullName": "Oldřich Nový",
+      "country": "Czech Republic",
+      "age": 20,
+      "birthYear": 2006,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": 0.9,
+      "funFact": "捷克新生代指挥，带领GamerLegion参加Major",
+      "hints": [
+        {
+          "text": "来自Czech Republic",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于GamerLegion",
+          "difficulty": 1
+        },
+        {
+          "text": "作为GamerLegion的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "GamerLegion在本次Major种子排名第17",
+          "difficulty": 3
+        },
+        {
+          "text": "捷克CS底蕴深厚",
+          "difficulty": 3
+        },
+        {
+          "text": "2006年出生，今年20岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "HLTV Rating约为0.9",
+          "difficulty": 3
+        },
+        {
+          "text": "Czech Republic人，来自布拉格",
+          "difficulty": 1
+        },
+        {
+          "text": "队伍的场上指挥，每一回合的战术都由他策动",
+          "difficulty": 1
+        },
+        {
+          "text": "GamerLegion阵容中的重要一员",
+          "difficulty": 3
+        },
+        {
+          "text": "GamerLegion以发掘年轻天才著称",
+          "difficulty": 3
+        }
+      ],
+      "team": "gamerlegion",
+      "teamName": "GamerLegion",
+      "teamPlacement": "17th seed"
+    },
+    {
+      "id": "Tauson",
+      "nickname": "Tauson",
+      "fullName": "Sebastian Tauson Lindelof",
+      "country": "Denmark",
+      "age": 23,
+      "birthYear": 2003,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.92,
+      "funFact": "丹麦步枪手，2024年加入GL",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于GamerLegion",
+          "difficulty": 1
+        },
+        {
+          "text": "作为GamerLegion的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "GamerLegion在本次Major种子排名第17",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 3
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.92",
+          "difficulty": 3
+        },
+        {
+          "text": "GamerLegion以发掘年轻天才著称",
+          "difficulty": 3
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在GamerLegion中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "gamerlegion",
+      "teamName": "GamerLegion",
+      "teamPlacement": "17th seed"
+    }
+  ]
+}

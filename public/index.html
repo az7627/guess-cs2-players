@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CS2 猜职业选手</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div id="app">
+
+  <!-- LOGIN SCREEN -->
+  <div id="login-screen" class="screen">
+    <div class="login-container">
+      <h1>CS2 猜职业选手</h1>
+      <p class="subtitle">IEM Cologne Major 2026</p>
+      <div class="login-form">
+        <input type="text" id="name-input" placeholder="输入你的昵称" maxlength="16" autocomplete="off">
+        <div class="login-buttons">
+          <button id="create-room-btn" class="btn primary">创建房间</button>
+          <div class="join-row">
+            <input type="text" id="room-code-input" placeholder="房间号" maxlength="6" autocomplete="off">
+            <button id="join-room-btn" class="btn secondary">加入房间</button>
+          </div>
+          <div class="join-row">
+            <input type="text" id="spectate-code-input" placeholder="房间号" maxlength="6" autocomplete="off">
+            <button id="spectate-btn" class="btn outline">观战</button>
+          </div>
+        </div>
+      </div>
+      <div id="login-error" class="error-msg"></div>
+    </div>
+  </div>
+
+  <!-- LOBBY SCREEN -->
+  <div id="lobby-screen" class="screen hidden">
+    <div class="lobby-container">
+      <div class="lobby-header">
+        <div class="room-code-display">
+          <span class="label">房间号</span>
+          <span id="lobby-room-code" class="code"></span>
+        </div>
+        <button id="leave-lobby-btn" class="btn outline">离开</button>
+      </div>
+
+      <div class="lobby-content">
+        <div class="lobby-left">
+          <h3>玩家列表</h3>
+          <div id="player-list" class="player-list"></div>
+          <div id="spectator-list" class="spectator-list"></div>
+        </div>
+
+        <div class="lobby-right" id="lobby-settings">
+          <h3>游戏设置</h3>
+          <div class="setting-group">
+            <label>选择队伍</label>
+            <div class="team-actions">
+              <button id="select-all-teams" class="btn small">全选</button>
+              <button id="deselect-all-teams" class="btn small outline">全不选</button>
+            </div>
+            <div id="team-checkboxes" class="team-grid"></div>
+          </div>
+          <div class="setting-group">
+            <label for="win-rounds-input">先赢局数</label>
+            <input type="number" id="win-rounds-input" min="1" max="99" value="7">
+          </div>
+          <div class="setting-group">
+            <label for="max-guesses-input">每人每回最多猜</label>
+            <input type="number" id="max-guesses-input" min="1" max="99" value="10">
+          </div>
+          <div class="setting-group">
+            <label>猜题模式</label>
+            <select id="mode-select">
+              <option value="player">猜选手</option>
+              <option value="team">猜战队</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="lobby-footer">
+        <div id="lobby-error" class="error-msg"></div>
+        <button id="start-game-btn" class="btn primary large" disabled>开始游戏</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- GAME SCREEN -->
+  <div id="game-screen" class="screen hidden">
+    <!-- Top bar -->
+    <div class="game-topbar">
+      <div class="topbar-timer">
+        <span id="game-timer" class="timer-text">2:00</span>
+      </div>
+      <div class="topbar-info">
+        <span id="game-round-info">Round 1</span>
+        <span class="divider">|</span>
+        <span>先赢 <span id="game-win-target">7</span> 局</span>
+      </div>
+      <div class="topbar-scores" id="game-scores"></div>
+    </div>
+
+    <!-- Correct guess notification -->
+    <div id="correct-notification" class="correct-notification hidden">
+      <span id="correct-notification-text"></span> 猜出正确答案！
+    </div>
+
+    <!-- Main game area -->
+    <div class="game-main">
+      <!-- Left: Hints -->
+      <div class="game-hints">
+        <h3>提示</h3>
+        <div id="hints-list" class="hints-list"></div>
+      </div>
+
+      <!-- Right: Player guesses -->
+      <div class="game-guesses">
+        <h3>答案区</h3>
+        <div id="guesses-area" class="guesses-area"></div>
+      </div>
+    </div>
+
+    <!-- Bottom: Search input -->
+    <div class="game-bottom" id="game-bottom">
+      <div class="search-container">
+        <div class="search-wrapper">
+          <input type="text" id="search-input" placeholder="搜索选手..." autocomplete="off" disabled>
+          <div id="search-dropdown" class="search-dropdown hidden"></div>
+        </div>
+        <span id="guess-count" class="guess-count">剩余: 10/10</span>
+      </div>
+    </div>
+
+    <!-- Spectator notice -->
+    <div id="spectator-notice" class="spectator-notice hidden">
+      正在观战中...
+    </div>
+
+    <!-- Round end overlay -->
+    <div id="round-end-overlay" class="round-end-overlay hidden">
+      <div class="round-end-content">
+        <h2 id="round-end-title">回合结束</h2>
+        <p id="round-end-answer"></p>
+        <p id="round-end-timer">下一回合即将开始...</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- GAME OVER OVERLAY -->
+  <div id="game-over-overlay" class="game-over-overlay hidden">
+    <div class="game-over-content">
+      <h2>游戏结束</h2>
+      <p id="game-over-winner"></p>
+      <div id="game-over-scores" class="game-over-scores"></div>
+      <button id="back-to-lobby-btn" class="btn primary">返回大厅</button>
+    </div>
+  </div>
+
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/socket.js"></script>
+<script src="/js/lobby.js"></script>
+<script src="/js/game.js"></script>
+</body>
+</html>

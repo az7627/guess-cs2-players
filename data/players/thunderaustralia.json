@@ -1,0 +1,344 @@
+{
+  "teamId": "thunderaustralia",
+  "teamName": "THUNDER dOWNUNDER",
+  "players": [
+    {
+      "id": "aliStair",
+      "nickname": "aliStair",
+      "fullName": "Alistair Johnston",
+      "country": "Australia",
+      "age": 25,
+      "birthYear": 2001,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 1,
+      "funFact": "澳大利亚最好的狙击手之一",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于THUNDER dOWNUNDER",
+          "difficulty": 1
+        },
+        {
+          "text": "作为THUNDER dOWNUNDER的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "THUNDER dOWNUNDER在本次Major种子排名第31",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 4
+        },
+        {
+          "text": "2001年出生，今年25岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1",
+          "difficulty": 3
+        },
+        {
+          "text": "Australia人，来自墨尔本",
+          "difficulty": 1
+        },
+        {
+          "text": "用一把AWP在比赛中屡建奇功的狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "FlyQuest阵中资历较深的一位",
+          "difficulty": 3
+        },
+        {
+          "text": "经常研究对手的DEMO做针对性准备",
+          "difficulty": 4
+        },
+        {
+          "text": "THUNDERdOWNUNDER是澳洲CS的新面孔",
+          "difficulty": 3
+        }
+      ],
+      "team": "thunderaustralia",
+      "teamName": "THUNDER dOWNUNDER",
+      "teamPlacement": "31th seed"
+    },
+    {
+      "id": "asap",
+      "nickname": "asap",
+      "fullName": "asap Unknown",
+      "country": "Australia",
+      "age": 20,
+      "birthYear": "1999",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.15",
+      "funFact": "asap is a player for THUNDER dOWNUNDER",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于THUNDER dOWNUNDER",
+          "difficulty": 1
+        },
+        {
+          "text": "作为THUNDER dOWNUNDER的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "THUNDER dOWNUNDER在本次Major种子排名第31",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 2
+        },
+        {
+          "text": "澳洲CS的坚韧精神在他们身上体现得淋漓尽致",
+          "difficulty": 3
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "thunderaustralia",
+      "teamName": "THUNDER dOWNUNDER",
+      "teamPlacement": "31th seed"
+    },
+    {
+      "id": "dexter",
+      "nickname": "dexter",
+      "fullName": "Chris Nong",
+      "country": "Australia",
+      "age": 28,
+      "birthYear": 1998,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 5,
+      "hlvtRating": 0.98,
+      "funFact": "曾在MOUZ指挥，回到澳洲后加入FlyQuest",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于THUNDER dOWNUNDER",
+          "difficulty": 1
+        },
+        {
+          "text": "作为THUNDER dOWNUNDER的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "THUNDER dOWNUNDER在本次Major种子排名第31",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 2
+        },
+        {
+          "text": "1998年出生，今年28岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.98",
+          "difficulty": 3
+        },
+        {
+          "text": "Australia人，来自布里斯班",
+          "difficulty": 1
+        },
+        {
+          "text": "在Ancient B点防守滴水不漏",
+          "difficulty": 3
+        },
+        {
+          "text": "澳洲CS的坚韧精神在他们身上体现得淋漓尽致",
+          "difficulty": 3
+        }
+      ],
+      "team": "thunderaustralia",
+      "teamName": "THUNDER dOWNUNDER",
+      "teamPlacement": "31th seed"
+    },
+    {
+      "id": "Liazz",
+      "nickname": "Liazz",
+      "fullName": "Jay Tregillgas",
+      "country": "Australia",
+      "age": 27,
+      "birthYear": 1999,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 5,
+      "hlvtRating": 0.95,
+      "funFact": "澳洲CS老将，多次参加Major赛事",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于THUNDER dOWNUNDER",
+          "difficulty": 1
+        },
+        {
+          "text": "作为THUNDER dOWNUNDER的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "THUNDER dOWNUNDER在本次Major种子排名第31",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 2
+        },
+        {
+          "text": "1999年出生，今年27岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.95",
+          "difficulty": 3
+        },
+        {
+          "text": "Australia人，来自布里斯班",
+          "difficulty": 1
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "THUNDERdOWNUNDER是澳洲CS的新面孔",
+          "difficulty": 3
+        }
+      ],
+      "team": "thunderaustralia",
+      "teamName": "THUNDER dOWNUNDER",
+      "teamPlacement": "31th seed"
+    },
+    {
+      "id": "TjP",
+      "nickname": "TjP",
+      "fullName": "TjP Unknown",
+      "country": "Australia",
+      "age": 21,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.08",
+      "funFact": "TjP is a player for THUNDER dOWNUNDER",
+      "hints": [
+        {
+          "text": "来自Australia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于THUNDER dOWNUNDER",
+          "difficulty": 1
+        },
+        {
+          "text": "作为THUNDER dOWNUNDER的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "THUNDER dOWNUNDER在本次Major种子排名第31",
+          "difficulty": 3
+        },
+        {
+          "text": "澳大利亚CS一直在大洋洲孤独地坚守",
+          "difficulty": 4
+        },
+        {
+          "text": "澳洲CS的坚韧精神在他们身上体现得淋漓尽致",
+          "difficulty": 3
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在THUNDER dOWNUNDER中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "thunderaustralia",
+      "teamName": "THUNDER dOWNUNDER",
+      "teamPlacement": "31th seed"
+    }
+  ]
+}

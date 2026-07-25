@@ -1,0 +1,336 @@
+{
+  "teamId": "aurora",
+  "teamName": "Aurora Gaming",
+  "players": [
+    {
+      "id": "MAJ3R",
+      "nickname": "MAJ3R",
+      "fullName": "Engin Küpeli",
+      "country": "Turkey",
+      "age": 33,
+      "birthYear": 1993,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 5,
+      "hlvtRating": 0.88,
+      "funFact": "土耳其CS老将，曾效力于Space Soldiers，后成为FUT的支柱",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Aurora Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Aurora Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Aurora Gaming在本次Major种子排名第4",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 3
+        },
+        {
+          "text": "1993年出生，今年33岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.88",
+          "difficulty": 3
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "Aurora Gaming参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "aurora",
+      "teamName": "Aurora Gaming",
+      "teamPlacement": "4th seed"
+    },
+    {
+      "id": "Wicadia",
+      "nickname": "Wicadia",
+      "fullName": "Ali Haydar Yalçın",
+      "country": "Turkey",
+      "age": 22,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": "0.86",
+      "funFact": "Wicadia is a player for Aurora Gaming",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Aurora Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Aurora Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Aurora Gaming在本次Major种子排名第4",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 3
+        },
+        {
+          "text": "Aurora Gaming参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "aurora",
+      "teamName": "Aurora Gaming",
+      "teamPlacement": "4th seed"
+    },
+    {
+      "id": "woxic",
+      "nickname": "woxic",
+      "fullName": "Özgür Eker",
+      "country": "Turkey",
+      "age": 26,
+      "birthYear": 2000,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 1.02,
+      "funFact": "土耳其最有天赋的狙击手，曾在Cloud9和Eternal Fire效力",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Aurora Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Aurora Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Aurora Gaming在本次Major种子排名第4",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 4
+        },
+        {
+          "text": "2000年出生，今年26岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.02",
+          "difficulty": 3
+        },
+        {
+          "text": "使用极高鼠标灵敏度(eDPI~2400)，是职业圈最高灵敏度选手之一",
+          "difficulty": 3
+        },
+        {
+          "text": "人称\"手腕魔术师\"，高灵敏AWP精准度很高",
+          "difficulty": 4
+        },
+        {
+          "text": "Aurora Gaming参加了2026科隆Major",
+          "difficulty": 3
+        }
+      ],
+      "team": "aurora",
+      "teamName": "Aurora Gaming",
+      "teamPlacement": "4th seed"
+    },
+    {
+      "id": "XANTARES",
+      "nickname": "XANTARES",
+      "fullName": "Ismailcan Dörtkardeş",
+      "country": "Turkey",
+      "age": 24,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "0.87",
+      "funFact": "XANTARES is a player for Aurora Gaming",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Aurora Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Aurora Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Aurora Gaming在本次Major种子排名第4",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 3
+        },
+        {
+          "text": "Aurora Gaming参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "aurora",
+      "teamName": "Aurora Gaming",
+      "teamPlacement": "4th seed"
+    },
+    {
+      "id": "soulfly",
+      "nickname": "soulfly",
+      "fullName": "Caner Kesici",
+      "country": "Turkey",
+      "age": 29,
+      "birthYear": "2001",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.19",
+      "funFact": "soulfly is a player for Aurora Gaming",
+      "hints": [
+        {
+          "text": "来自Turkey",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Aurora Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Aurora Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Aurora Gaming在本次Major种子排名第4",
+          "difficulty": 3
+        },
+        {
+          "text": "土耳其CS粉丝的激情全球闻名",
+          "difficulty": 4
+        },
+        {
+          "text": "Aurora Gaming参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Aurora Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "aurora",
+      "teamName": "Aurora Gaming",
+      "teamPlacement": "4th seed"
+    }
+  ]
+}

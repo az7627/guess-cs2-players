@@ -1,0 +1,82 @@
+import json
+
+with open(r"C:\Users\a233d\Documents\git\multiplayers-game-test\data\allPlayers.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+HM = {}  # hints_map
+
+# ===== 9z =====
+HM["dgt"] = [
+    {"text": "乌拉圭首都蒙得维的亚的街头网咖是他CS生涯的起点", "difficulty": 1},
+    {"text": "Inferno香蕉道的CT前压指挥是他在南美赛区的招牌战术", "difficulty": 2},
+    {"text": "ID源自龙珠Z超赛亚人变身，曾考虑改名为Vegeta但被队友阻拦", "difficulty": 3},
+    {"text": "与max一同成为首批打进CS Major正赛的乌拉圭籍选手", "difficulty": 3},
+    {"text": "FURIA曾开价想签下他但遭拒绝，选择留在paiN带队", "difficulty": 4},
+    {"text": "随paiN在BLAST Austin Major一路杀入四强震惊欧美圈", "difficulty": 4},
+    {"text": "2026年1月从paiN重返老东家9z，完成五年职业生涯的轮回", "difficulty": 5},
+    {"text": "南美CS圈传闻他每晚睡前必看两小时demo才睡觉", "difficulty": 5},
+    {"text": "在Overpass上开发了一套让对手至今无法破解的B点五人假打战术", "difficulty": 5},
+    {"text": "他的指挥风格被社区称为“乌拉圭式游击战”", "difficulty": 4},
+    {"text": "曾在训练赛中因队友不执行战术直接静音所有人打完一局", "difficulty": 5},
+    {"text": "赛前必喝马黛茶，他说不喝手会抖", "difficulty": 3},
+]
+
+HM["buda"] = [
+    {"text": "布宜诺斯艾利斯南郊贫民区长大的阿根廷CS奇迹", "difficulty": 1},
+    {"text": "Mirage中路拱门防守是他的专属领地，被南美解说称为“buda之门”", "difficulty": 2},
+    {"text": "从9z青训学院一路打到主队从未更换过俱乐部", "difficulty": 3},
+    {"text": "2024年IEM Dallas随9z连斩MOUZ和Vitality杀入半决赛一战成名", "difficulty": 3},
+    {"text": "曾被9z管理层下放至板凳席，一度考虑退役转行送外卖", "difficulty": 4},
+    {"text": "2025年加盟BESTIA后转型IGL，从一个纯枪男变成全能指挥", "difficulty": 4},
+    {"text": "他最爱用的AK皮肤是红色层压板，据说是女朋友送的生日礼物", "difficulty": 5},
+    {"text": "左手鼠标右手键盘的镜像设置，显示器必须向左倾斜15度", "difficulty": 5},
+    {"text": "训练赛中打出过Nuke外场穿烟三杀的经典操作被队友起外号“穿墙侠”", "difficulty": 5},
+    {"text": "最讨厌打Vertigo，曾在采访中说“那根本不是CS地图”", "difficulty": 3},
+    {"text": "高烧39度坚持打完ESL挑战者联赛淘汰赛并且拿到单场MVP", "difficulty": 4},
+    {"text": "养了一只叫AK的橘猫，比赛时经常趴在电脑桌旁边", "difficulty": 3},
+]
+
+HM["HUASOPEEK"] = [
+    {"text": "阿根廷科尔多瓦省走出的最不可思议的步枪手", "difficulty": 1},
+    {"text": "Nuke外场T方破点手的极限干拉打法让他成为南美最具观赏性步枪之一", "difficulty": 2},
+    {"text": "2023年10月加入9z替代dav1deuS，首秀即打出1.30+ Rating", "difficulty": 3},
+    {"text": "2026年XSE Pro League广州站拿下职业生涯首个MVP奖章", "difficulty": 3},
+    {"text": "夺冠后接受采访时表示“我们很接近一线了但还没到那个水平”", "difficulty": 4},
+    {"text": "他的ID来自CS 1.6时代看过的一部关于狙击手的老电影", "difficulty": 4},
+    {"text": "曾在FPL因为连续三次中路peek爆头被donk怀疑开挂而被踢出房间", "difficulty": 5},
+    {"text": "跟dgt是同乡，两人小时候在同一个网吧但互相不认识", "difficulty": 5},
+    {"text": "比赛前习惯性在手腕上缠两圈白色胶带，说是“心理暗示”", "difficulty": 5},
+    {"text": "他玩Deagle的准度在南美选手中排名前三，被队友称为“手枪王”", "difficulty": 4},
+    {"text": "在Inferno A点二楼跳杀的打法被HLTV选入年度最佳操作集锦", "difficulty": 4},
+    {"text": "喜欢吃阿根廷烤牛肉，但比赛期间只喝水不吃东西", "difficulty": 3},
+]
+
+HM["max"] = [
+    {"text": "蒙得维的亚老城区一个只有三台电脑的网吧孕育的CS传奇", "difficulty": 1},
+    {"text": "Anubis地图B点的狙击站位让无数欧洲突破手望而却步", "difficulty": 2},
+    {"text": "CS 1.6时代就有对阵NiP的比赛记录，是南美最长寿的现役职业选手", "difficulty": 3},
+    {"text": "原效力于阿根廷俱乐部Isurus，2020年加入9z后被粉丝誉为“队魂”", "difficulty": 3},
+    {"text": "坦言面对ZywOo和donk这样的顶级选手时“像一道心理障碍”", "difficulty": 4},
+    {"text": "职业赛场开过最多盲狙的南美选手，曾在一年内打出17次盲狙击杀", "difficulty": 3},
+    {"text": "他的鼠标灵敏度在整个职业圈排倒数前三，被戏称“乌龟甩狙”", "difficulty": 5},
+    {"text": "因为年龄大被南美新秀们戏称为“恐龙”，但他用AWP回应了一切嘲讽", "difficulty": 4},
+    {"text": "曾在一场比赛中被对手连续偷掉三局后，下局开局直接盲穿烟雾弹复仇", "difficulty": 5},
+    {"text": "他说退休后想去开一家电竞酒吧，专门播南美CS比赛", "difficulty": 5},
+    {"text": "在队伍里是所有人的“心理医生”，dgt说没有max自己早崩溃了", "difficulty": 4},
+    {"text": "他的交叉准星是一个极小十字，据说是从1.6时代沿袭下来的", "difficulty": 4},
+]
+
+HM["martinezsa"] = [
+    {"text": "西班牙马德里出生的CS选手却在全是拉美人的9z打出了一片天", "difficulty": 1},
+    {"text": "Ancient地图甜甜圈位置的自由人打法被欧洲分析师单独拿出来做过专题", "difficulty": 2},
+    {"text": "从Movistar Riders转会至9z，是队内唯一的欧洲选手", "difficulty": 3},
+    {"text": "2026年被曝出FaZe有意签他做主狙，消息一出震动了整个转会市场", "difficulty": 4},
+    {"text": "加入HEROIC后首次体验纯英语交流环境，自称“每天进步一块海绵”", "difficulty": 4},
+    {"text": "在9z时经常因为听不懂队友的西班牙语方言而闹出乌龙战术", "difficulty": 3},
+    {"text": "他的狙击风格偏向防守型，喜欢架点等对手送上门而不是主动peek", "difficulty": 3},
+    {"text": "曾在Dust2中门盲狙一枪带走正在跳起的敌人，被官方剪辑发到社交媒体", "difficulty": 4},
+    {"text": "最喜欢的枪皮是Dragon Lore，但“买不起真的，只能用盗版皮肤”", "difficulty": 5},
+    {"text": "他飞越大西洋打比赛的里程数已经可以绕地球好几圈了", "difficulty": 5},
+    {"text": "西班牙CS圈已经很久没有狙击手被一线豪门看中，他背负着整个国家的期望", "difficulty": 5},
+    {"text": "和max在AWP对练中结下深厚友谊，两人私下互相称对方为“师傅”", "difficulty": 4},
+]

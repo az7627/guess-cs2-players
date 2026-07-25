@@ -1,0 +1,340 @@
+{
+  "teamId": "9z",
+  "teamName": "9z Team",
+  "players": [
+    {
+      "id": "max",
+      "nickname": "max",
+      "fullName": "Maximiliano Gonzalez",
+      "country": "Argentina",
+      "age": 25,
+      "birthYear": "2001",
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 0.99,
+      "funFact": "9z的主狙击手，南美最稳定的AWP之一",
+      "hints": [
+        {
+          "text": "来自Argentina",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于9z Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为9z Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "9z Team在本次Major种子排名第15",
+          "difficulty": 3
+        },
+        {
+          "text": "阿根廷CS是南美的重要力量",
+          "difficulty": 3
+        },
+        {
+          "text": "2001年出生，今年25岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.99",
+          "difficulty": 3
+        },
+        {
+          "text": "Argentina人，来自布宜诺斯艾利斯",
+          "difficulty": 1
+        },
+        {
+          "text": "以精准AWP闻名，是队伍远程火力的保障",
+          "difficulty": 1
+        },
+        {
+          "text": "9z是南美CS的新兴力量",
+          "difficulty": 3
+        }
+      ],
+      "team": "9z",
+      "teamName": "9z Team",
+      "teamPlacement": "15th seed"
+    },
+    {
+      "id": "dgt",
+      "nickname": "dgt",
+      "fullName": "Franco Garcia",
+      "country": "Argentina",
+      "age": 24,
+      "birthYear": "2002",
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 0.95,
+      "funFact": "阿根廷最好的IGL，带领9z成为南美顶级战队",
+      "hints": [
+        {
+          "text": "来自Argentina",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于9z Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为9z Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "9z Team在本次Major种子排名第15",
+          "difficulty": 3
+        },
+        {
+          "text": "阿根廷CS是南美的重要力量",
+          "difficulty": 3
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.95",
+          "difficulty": 3
+        },
+        {
+          "text": "Argentina人，来自布宜诺斯艾利斯",
+          "difficulty": 1
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "9z曾在Major上多次制造冷门",
+          "difficulty": 3
+        }
+      ],
+      "team": "9z",
+      "teamName": "9z Team",
+      "teamPlacement": "15th seed"
+    },
+    {
+      "id": "meyern",
+      "nickname": "meyern",
+      "fullName": "Ignacio Meyer",
+      "country": "Argentina",
+      "age": 20,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "0.97",
+      "funFact": "meyern is a player for 9z Team",
+      "hints": [
+        {
+          "text": "来自Argentina",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于9z Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为9z Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "9z Team在本次Major种子排名第15",
+          "difficulty": 3
+        },
+        {
+          "text": "阿根廷CS是南美的重要力量",
+          "difficulty": 2
+        },
+        {
+          "text": "9z是南美CS的新兴力量",
+          "difficulty": 3
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "9z",
+      "teamName": "9z Team",
+      "teamPlacement": "15th seed"
+    },
+    {
+      "id": "luchov",
+      "nickname": "luchov",
+      "fullName": "Luciano Herrera",
+      "country": "Argentina",
+      "age": 29,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "0.96",
+      "funFact": "luchov is a player for 9z Team",
+      "hints": [
+        {
+          "text": "来自Argentina",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于9z Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为9z Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "9z Team在本次Major种子排名第15",
+          "difficulty": 3
+        },
+        {
+          "text": "阿根廷CS是南美的重要力量",
+          "difficulty": 3
+        },
+        {
+          "text": "9z曾在Major上多次制造冷门",
+          "difficulty": 3
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在9z Team中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "9z",
+      "teamName": "9z Team",
+      "teamPlacement": "15th seed"
+    },
+    {
+      "id": "HUASOPEEK",
+      "nickname": "HUASOPEEK",
+      "fullName": "HUASOPEEK Unknown",
+      "country": "Argentina",
+      "age": 23,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.98,
+      "funFact": "9z的核心火力",
+      "hints": [
+        {
+          "text": "来自Argentina",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于9z Team",
+          "difficulty": 1
+        },
+        {
+          "text": "作为9z Team的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "9z Team在本次Major种子排名第15",
+          "difficulty": 3
+        },
+        {
+          "text": "阿根廷CS是南美的重要力量",
+          "difficulty": 2
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.98",
+          "difficulty": 3
+        },
+        {
+          "text": "Argentina人，来自布宜诺斯艾利斯",
+          "difficulty": 1
+        },
+        {
+          "text": "在Vertigo A坡防守是强项",
+          "difficulty": 3
+        },
+        {
+          "text": "经常研究对手的DEMO做针对性准备",
+          "difficulty": 4
+        },
+        {
+          "text": "9z代表了阿根廷和乌拉圭CS的最高水平",
+          "difficulty": 3
+        }
+      ],
+      "team": "9z",
+      "teamName": "9z Team",
+      "teamPlacement": "15th seed"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "teamId": "pain",
+  "teamName": "paiN Gaming",
+  "players": [
+    {
+      "id": "biguzera",
+      "nickname": "biguzera",
+      "fullName": "Rodrigo Bittencourt",
+      "country": "Brazil",
+      "age": 24,
+      "birthYear": "2002",
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 0.98,
+      "funFact": "paiN Gaming的指挥核心，被视为巴西最有前途的IGL之一",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于paiN Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为paiN Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "paiN Gaming在本次Major种子排名第14",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.98",
+          "difficulty": 3
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "比赛中非常冷静，队友称\"定海神针\"",
+          "difficulty": 4
+        },
+        {
+          "text": "paiN Gaming参加了2026科隆Major",
+          "difficulty": 3
+        }
+      ],
+      "team": "pain",
+      "teamName": "paiN Gaming",
+      "teamPlacement": "14th seed"
+    },
+    {
+      "id": "snow",
+      "nickname": "snow",
+      "fullName": "Gabriel Davi",
+      "country": "Brazil",
+      "age": 21,
+      "birthYear": "2005",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.92,
+      "funFact": "paiN Gaming的核心步枪手",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于paiN Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为paiN Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "paiN Gaming在本次Major种子排名第14",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 3
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.92",
+          "difficulty": 3
+        },
+        {
+          "text": "paiN Gaming参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "pain",
+      "teamName": "paiN Gaming",
+      "teamPlacement": "14th seed"
+    },
+    {
+      "id": "piriajr",
+      "nickname": "piriajr",
+      "fullName": "piriajr Unknown",
+      "country": "Brazil",
+      "age": 28,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "0.92",
+      "funFact": "piriajr is a player for paiN Gaming",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于paiN Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为paiN Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "paiN Gaming在本次Major种子排名第14",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "paiN Gaming参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "pain",
+      "teamName": "paiN Gaming",
+      "teamPlacement": "14th seed"
+    },
+    {
+      "id": "vsm",
+      "nickname": "vsm",
+      "fullName": "vsm Unknown",
+      "country": "Brazil",
+      "age": 27,
+      "birthYear": "1997",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "1.04",
+      "funFact": "vsm is a player for paiN Gaming",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于paiN Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为paiN Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "paiN Gaming在本次Major种子排名第14",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "paiN Gaming参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "pain",
+      "teamName": "paiN Gaming",
+      "teamPlacement": "14th seed"
+    },
+    {
+      "id": "nqz",
+      "nickname": "nqz",
+      "fullName": "Lucas Soares",
+      "country": "Brazil",
+      "age": 19,
+      "birthYear": "2007",
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 1,
+      "funFact": "巴西最年轻的狙击天才，17岁就进入顶级赛场",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于paiN Gaming",
+          "difficulty": 1
+        },
+        {
+          "text": "作为paiN Gaming的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "paiN Gaming在本次Major种子排名第14",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "2007年出生，今年19岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1",
+          "difficulty": 3
+        },
+        {
+          "text": "用一把AWP在比赛中屡建奇功的狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "paiN Gaming参加了2026科隆Major",
+          "difficulty": 3
+        },
+        {
+          "text": "在paiN Gaming中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "pain",
+      "teamName": "paiN Gaming",
+      "teamPlacement": "14th seed"
+    }
+  ]
+}

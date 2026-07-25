@@ -1,0 +1,348 @@
+{
+  "teamId": "falcons",
+  "teamName": "Team Falcons",
+  "players": [
+    {
+      "id": "karrigan",
+      "nickname": "karrigan",
+      "fullName": "Finn Andersen",
+      "country": "Denmark",
+      "age": 27,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 1,
+      "hlvtRating": "1.05",
+      "funFact": "karrigan is a player for Team Falcons",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Falcons",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Falcons的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Falcons在本次Major种子排名第5",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 3
+        },
+        {
+          "text": "Falcons阵容中有多位HLTV TOP20级选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "falcons",
+      "teamName": "Team Falcons",
+      "teamPlacement": "5th seed"
+    },
+    {
+      "id": "NiKo",
+      "nickname": "NiKo",
+      "fullName": "Nikola Kovač",
+      "country": "Bosnia and Herzegovina",
+      "age": 29,
+      "birthYear": 1997,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 10,
+      "hlvtRating": 1.16,
+      "funFact": "波黑CS传奇，被认为是史上最强的步枪手之一，多次HLTV TOP3",
+      "hints": [
+        {
+          "text": "来自Bosnia and Herzegovina",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Falcons",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Falcons的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Falcons在本次Major种子排名第5",
+          "difficulty": 3
+        },
+        {
+          "text": "波黑走出了CS史上最强步枪手之一",
+          "difficulty": 4
+        },
+        {
+          "text": "1997年出生，今年29岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了10届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.16",
+          "difficulty": 3
+        },
+        {
+          "text": "Bosnia and Herzegovina人，来自萨拉热窝",
+          "difficulty": 1
+        },
+        {
+          "text": "在Overpass B区防守顽固",
+          "difficulty": 3
+        },
+        {
+          "text": "被公认为CS史上最强步枪手，机械瞄准能力被称为\"人形外挂\"",
+          "difficulty": 3
+        },
+        {
+          "text": "Dust2单回合Deagle一穿五成为CS史上传世经典",
+          "difficulty": 4
+        },
+        {
+          "text": "Falcons阵容中有多位HLTV TOP20级选手",
+          "difficulty": 3
+        }
+      ],
+      "team": "falcons",
+      "teamName": "Team Falcons",
+      "teamPlacement": "5th seed"
+    },
+    {
+      "id": "m0NESY",
+      "nickname": "m0NESY",
+      "fullName": "Ilya Osipov",
+      "country": "Russia",
+      "age": 21,
+      "birthYear": "2005",
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 5,
+      "hlvtRating": 1.22,
+      "funFact": "俄罗斯天才狙击手，被认为是ZywOo之后最具天赋的选手",
+      "hints": [
+        {
+          "text": "来自Russia",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Falcons",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Falcons的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Falcons在本次Major种子排名第5",
+          "difficulty": 3
+        },
+        {
+          "text": "从独联体地区的天梯中一路成长起来",
+          "difficulty": 3
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.22",
+          "difficulty": 3
+        },
+        {
+          "text": "队内主狙击手，负责用AWP控制关键位置",
+          "difficulty": 1
+        },
+        {
+          "text": "s1mple亲自向NAVI推荐买他，被称为\"钦定接班人\"",
+          "difficulty": 4
+        },
+        {
+          "text": "反应速度测试约130-140ms，远超常人平均水平200ms",
+          "difficulty": 5
+        },
+        {
+          "text": "Falcons阵容中有多位HLTV TOP20级选手",
+          "difficulty": 3
+        }
+      ],
+      "team": "falcons",
+      "teamName": "Team Falcons",
+      "teamPlacement": "5th seed"
+    },
+    {
+      "id": "TeSeS",
+      "nickname": "TeSeS",
+      "fullName": "René Madsen",
+      "country": "Denmark",
+      "age": 24,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 6,
+      "hlvtRating": 1.02,
+      "funFact": "HEROIC的长期核心选手，经历了多次阵容变动",
+      "hints": [
+        {
+          "text": "来自Denmark",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Falcons",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Falcons的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Falcons在本次Major种子排名第5",
+          "difficulty": 3
+        },
+        {
+          "text": "丹麦这个小国培养了无数CS世界冠军",
+          "difficulty": 3
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了6届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.02",
+          "difficulty": 3
+        },
+        {
+          "text": "随HEROIC参加过多次国际赛事",
+          "difficulty": 3
+        },
+        {
+          "text": "Falcons是沙特资本重金打造的超级战队",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "falcons",
+      "teamName": "Team Falcons",
+      "teamPlacement": "5th seed"
+    },
+    {
+      "id": "kyousuke",
+      "nickname": "kyousuke",
+      "fullName": "Kyousuke Tanaka",
+      "country": "Japan",
+      "age": 23,
+      "birthYear": "2004",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": "0.98",
+      "funFact": "kyousuke is a player for Team Falcons",
+      "hints": [
+        {
+          "text": "来自Japan",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Team Falcons",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Team Falcons的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Team Falcons在本次Major种子排名第5",
+          "difficulty": 3
+        },
+        {
+          "text": "日本CS选手登陆国际赛场极为罕见",
+          "difficulty": 4
+        },
+        {
+          "text": "Falcons是沙特资本重金打造的超级战队",
+          "difficulty": 3
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Team Falcons中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "falcons",
+      "teamName": "Team Falcons",
+      "teamPlacement": "5th seed"
+    }
+  ]
+}

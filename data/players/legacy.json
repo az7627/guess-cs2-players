@@ -1,0 +1,336 @@
+{
+  "teamId": "legacy",
+  "teamName": "Legacy",
+  "players": [
+    {
+      "id": "dumau",
+      "nickname": "dumau",
+      "fullName": "Eduardo Wolkmer",
+      "country": "Brazil",
+      "age": 22,
+      "birthYear": 2004,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": 1.02,
+      "funFact": "巴西新生代最有潜力的步枪手之一",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Legacy",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Legacy的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Legacy在本次Major种子排名第16",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了3届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.02",
+          "difficulty": 3
+        },
+        {
+          "text": "Legacy的目标是培养新一代巴西CS人才",
+          "difficulty": 3
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "legacy",
+      "teamName": "Legacy",
+      "teamPlacement": "16th seed"
+    },
+    {
+      "id": "latto",
+      "nickname": "latto",
+      "fullName": "Bruno Latto",
+      "country": "Brazil",
+      "age": 22,
+      "birthYear": 2004,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 2,
+      "hlvtRating": 0.98,
+      "funFact": "Legacy的主狙击手",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Legacy",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Legacy的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Legacy在本次Major种子排名第16",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了2届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为0.98",
+          "difficulty": 3
+        },
+        {
+          "text": "以精准AWP闻名，是队伍远程火力的保障",
+          "difficulty": 1
+        },
+        {
+          "text": "Legacy的年轻阵容正在快速成长",
+          "difficulty": 3
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "legacy",
+      "teamName": "Legacy",
+      "teamPlacement": "16th seed"
+    },
+    {
+      "id": "saadzin",
+      "nickname": "saadzin",
+      "fullName": "saadzin Unknown",
+      "country": "Brazil",
+      "age": 29,
+      "birthYear": "2003",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "0.96",
+      "funFact": "saadzin is a player for Legacy",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Legacy",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Legacy的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Legacy在本次Major种子排名第16",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 4
+        },
+        {
+          "text": "Legacy的年轻阵容正在快速成长",
+          "difficulty": 3
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "legacy",
+      "teamName": "Legacy",
+      "teamPlacement": "16th seed"
+    },
+    {
+      "id": "n1ssim",
+      "nickname": "n1ssim",
+      "fullName": "n1ssim Unknown",
+      "country": "Brazil",
+      "age": 26,
+      "birthYear": "2000",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "1.03",
+      "funFact": "n1ssim is a player for Legacy",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Legacy",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Legacy的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Legacy在本次Major种子排名第16",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 3
+        },
+        {
+          "text": "Legacy由巴西传奇选手coldzera创建",
+          "difficulty": 3
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "legacy",
+      "teamName": "Legacy",
+      "teamPlacement": "16th seed"
+    },
+    {
+      "id": "arT",
+      "nickname": "arT",
+      "fullName": "Andrei Piovezan",
+      "country": "Brazil",
+      "age": 24,
+      "birthYear": "1999",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 3,
+      "hlvtRating": "1.07",
+      "funFact": "arT is a player for Legacy",
+      "hints": [
+        {
+          "text": "来自Brazil",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于Legacy",
+          "difficulty": 1
+        },
+        {
+          "text": "作为Legacy的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "Legacy在本次Major种子排名第16",
+          "difficulty": 3
+        },
+        {
+          "text": "巴西拥有世界上最热情的CS粉丝群体",
+          "difficulty": 2
+        },
+        {
+          "text": "Legacy的目标是培养新一代巴西CS人才",
+          "difficulty": 3
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在Legacy中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "legacy",
+      "teamName": "Legacy",
+      "teamPlacement": "16th seed"
+    }
+  ]
+}

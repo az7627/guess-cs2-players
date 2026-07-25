@@ -1,0 +1,348 @@
+{
+  "teamId": "mouz",
+  "teamName": "MOUZ",
+  "players": [
+    {
+      "id": "Brollan",
+      "nickname": "Brollan",
+      "fullName": "Ludvig Brolin",
+      "country": "Sweden",
+      "age": 23,
+      "birthYear": 2003,
+      "role": "IGL",
+      "majorTitles": 0,
+      "majorAppearances": 5,
+      "hlvtRating": 1.05,
+      "funFact": "瑞典天才少年，从fnatic转会至MOUZ，在siuhy离队后转型为IGL",
+      "hints": [
+        {
+          "text": "来自Sweden",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MOUZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MOUZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MOUZ在本次Major种子排名第6",
+          "difficulty": 3
+        },
+        {
+          "text": "瑞典是CS历史上最成功的国家之一",
+          "difficulty": 3
+        },
+        {
+          "text": "2003年出生，今年23岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任指挥（IGL）",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了5届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.05",
+          "difficulty": 3
+        },
+        {
+          "text": "队内指挥（IGL），负责战术调度和临场决策",
+          "difficulty": 1
+        },
+        {
+          "text": "2022年以60万欧元天价转会NiP，瑞典CS最大笔转会之一",
+          "difficulty": 3
+        },
+        {
+          "text": "线上和线下表现差距巨大，被中国粉丝戏称\"线上战神\"",
+          "difficulty": 4
+        },
+        {
+          "text": "MOUZ的青训体系培养了大量顶级选手",
+          "difficulty": 3
+        }
+      ],
+      "team": "mouz",
+      "teamName": "MOUZ",
+      "teamPlacement": "6th seed"
+    },
+    {
+      "id": "Spinx",
+      "nickname": "Spinx",
+      "fullName": "Lotan Giladi",
+      "country": "Israel",
+      "age": 24,
+      "birthYear": 2002,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 6,
+      "hlvtRating": 1.14,
+      "funFact": "从Vitality转会至MOUZ，是队伍的重要火力补充",
+      "hints": [
+        {
+          "text": "来自Israel",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MOUZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MOUZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MOUZ在本次Major种子排名第6",
+          "difficulty": 3
+        },
+        {
+          "text": "以色列近年向CS输出了大量天才选手",
+          "difficulty": 2
+        },
+        {
+          "text": "2002年出生，今年24岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了6届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.14",
+          "difficulty": 3
+        },
+        {
+          "text": "步枪功力扎实，比赛中经常能打出多杀",
+          "difficulty": 1
+        },
+        {
+          "text": "MOUZ是德国CS的代表性战队",
+          "difficulty": 3
+        },
+        {
+          "text": "在MOUZ中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mouz",
+      "teamName": "MOUZ",
+      "teamPlacement": "6th seed"
+    },
+    {
+      "id": "xertioN",
+      "nickname": "xertioN",
+      "fullName": "Dorian Berman",
+      "country": "Israel",
+      "age": 21,
+      "birthYear": 2005,
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 1.09,
+      "funFact": "MOUZ青训出品的以色列步枪手，成长速度快",
+      "hints": [
+        {
+          "text": "来自Israel",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MOUZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MOUZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MOUZ在本次Major种子排名第6",
+          "difficulty": 3
+        },
+        {
+          "text": "以色列近年向CS输出了大量天才选手",
+          "difficulty": 3
+        },
+        {
+          "text": "2005年出生，今年21岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任步枪手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.09",
+          "difficulty": 3
+        },
+        {
+          "text": "在Ancient B点防守滴水不漏",
+          "difficulty": 3
+        },
+        {
+          "text": "MOUZ曾多次在国际赛事中扮演黑马角色",
+          "difficulty": 3
+        },
+        {
+          "text": "在MOUZ中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mouz",
+      "teamName": "MOUZ",
+      "teamPlacement": "6th seed"
+    },
+    {
+      "id": "torzsi",
+      "nickname": "torzsi",
+      "fullName": "Ádám Torzsás",
+      "country": "Hungary",
+      "age": 22,
+      "birthYear": 2004,
+      "role": "AWPer",
+      "majorTitles": 0,
+      "majorAppearances": 4,
+      "hlvtRating": 1.08,
+      "funFact": "匈牙利CS的代表人物，从MOUZ青训晋升主队",
+      "hints": [
+        {
+          "text": "来自Hungary",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MOUZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MOUZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MOUZ在本次Major种子排名第6",
+          "difficulty": 3
+        },
+        {
+          "text": "匈牙利CS选手虽少但个个精悍",
+          "difficulty": 2
+        },
+        {
+          "text": "2004年出生，今年22岁",
+          "difficulty": 2
+        },
+        {
+          "text": "在队内担任狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "参加了4届Major",
+          "difficulty": 3
+        },
+        {
+          "text": "HLTV Rating约为1.08",
+          "difficulty": 3
+        },
+        {
+          "text": "用一把AWP在比赛中屡建奇功的狙击手",
+          "difficulty": 1
+        },
+        {
+          "text": "对CS2新版本sub-tick机制理解很深",
+          "difficulty": 4
+        },
+        {
+          "text": "匈牙利极为罕见的顶级CS选手，几乎是该国CS的唯一代表",
+          "difficulty": 3
+        },
+        {
+          "text": "从MOUZ NXT青训晋升主队，是MOUZ青训成功典范",
+          "difficulty": 4
+        },
+        {
+          "text": "MOUZ曾多次在国际赛事中扮演黑马角色",
+          "difficulty": 3
+        }
+      ],
+      "team": "mouz",
+      "teamName": "MOUZ",
+      "teamPlacement": "6th seed"
+    },
+    {
+      "id": "xelex",
+      "nickname": "xelex",
+      "fullName": "Xelex Unknown",
+      "country": "Europe",
+      "age": 25,
+      "birthYear": "2002",
+      "role": "Rifler",
+      "majorTitles": 0,
+      "majorAppearances": 0,
+      "hlvtRating": "0.96",
+      "funFact": "xelex is a player for MOUZ",
+      "hints": [
+        {
+          "text": "来自Europe",
+          "difficulty": 1
+        },
+        {
+          "text": "目前效力于MOUZ",
+          "difficulty": 1
+        },
+        {
+          "text": "作为MOUZ的一员参加2026科隆Major",
+          "difficulty": 2
+        },
+        {
+          "text": "MOUZ在本次Major种子排名第6",
+          "difficulty": 3
+        },
+        {
+          "text": "成长于欧洲顶级青训体系",
+          "difficulty": 3
+        },
+        {
+          "text": "MOUZ的青训体系培养了大量顶级选手",
+          "difficulty": 3
+        },
+        {
+          "text": "在MOUZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MOUZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MOUZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MOUZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MOUZ中扮演重要角色",
+          "difficulty": 4
+        },
+        {
+          "text": "在MOUZ中扮演重要角色",
+          "difficulty": 4
+        }
+      ],
+      "team": "mouz",
+      "teamName": "MOUZ",
+      "teamPlacement": "6th seed"
+    }
+  ]
+}
